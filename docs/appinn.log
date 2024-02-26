@@ -17401,3 +17401,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-02-26 10:16:23.538754
+------------------------------------------------------
+Started: 2024-02-26 12:26:37.581309
+Existing_entries: 283
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Token length: 488
+Summarized using GPT-3.5-turbo-1106
+Append: [【自荐】游戏存档管理工具 - 开源、支持WebDAV](https://meta.appinn.net/t/topic/53101)
+append_entries: 1
+Finish: 2024-02-26 12:26:43.727940
