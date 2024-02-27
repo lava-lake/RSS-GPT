@@ -4,6 +4,7 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>SmoothScroll 让页面滚动像流淌的蜂蜜，什么是真正的丝滑！</title>
 <link>https://meta.appinn.net/t/topic/41408</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> SmoothScroll, 软件, 浏览器, 问题, 解决
 
-总结:<br><br>本文介绍了 SmoothScroll 软件，该软件能够让电脑屏幕的滚动变得平滑起来，消除了滚动时的迟滞感和顿挫感。作者在使用过程中遇到了三个问题，包括不同浏览器呈现不同效果、软件对某些程序支持不好以及参数设置的限制。最后，作者向大家请教是否有其他好用的平滑滚动软件推荐，并分享了在浏览器实验选项中的一些提示。文章还提到了一些关于 Chrome 平滑滚动设置的讨论。在结尾处，作者解决了前两个问题并提供了一个关于禁用浏览器实验选项的建议。 <div>
+总结:<br /><br />本文介绍了 SmoothScroll 软件，该软件能够让电脑屏幕的滚动变得平滑起来，消除了滚动时的迟滞感和顿挫感。作者在使用过程中遇到了三个问题，包括不同浏览器呈现不同效果、软件对某些程序支持不好以及参数设置的限制。最后，作者向大家请教是否有其他好用的平滑滚动软件推荐，并分享了在浏览器实验选项中的一些提示。文章还提到了一些关于 Chrome 平滑滚动设置的讨论。在结尾处，作者解决了前两个问题并提供了一个关于禁用浏览器实验选项的建议。 <div>
 <h1>
 <a class="anchor" href="https://meta.appinn.net#smoothscroll-1" name="smoothscroll-1"></a>SmoothScroll</h1>
 <p>是一个能让电脑屏幕滚动变得平滑起来的软件，滚动不再有迟滞感、顿挫感，浏览网页、文档时眼睛能很轻松地跟上滚动脚步。</p>
@@ -129,9 +130,7 @@
             <p><a href="https://meta.appinn.net/t/topic/41408">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 08 Mar 2023 12:16:59 +0000</pubDate>
-<pubDate>Wed, 08 Mar 2023 12:16:59 +0000</pubDate>
 </item>
-
 <item>
 <title>【自荐】游戏存档管理工具 - 开源、支持WebDAV</title>
 <link>https://meta.appinn.net/t/topic/53101</link>
