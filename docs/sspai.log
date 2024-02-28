@@ -16237,3 +16237,15 @@ Existing_entries: 562
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-02-28 06:18:52.136376
+------------------------------------------------------
+Started: 2024-02-28 08:18:20.541752
+Existing_entries: 562
+Fetching from https://rsshub.app/sspai/index
+Token length: 5831
+Summarized using GPT-3.5-turbo-1106
+Append: [年度征文 | 绝知此事要躬行：谈谈笔记与自我管理的元方法论](https://sspai.com/post/86605)
+Token length: 3423
+Summarized using GPT-3.5-turbo-1106
+Append: [过去这一年，我有哪些离不开的效率工具？](https://sspai.com/post/85490)
+append_entries: 2
+Finish: 2024-02-28 08:18:29.910559
