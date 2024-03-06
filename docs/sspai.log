@@ -16819,3 +16819,15 @@ Existing_entries: 588
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-06 10:15:27.191230
+------------------------------------------------------
+Started: 2024-03-06 12:27:37.430168
+Existing_entries: 588
+Fetching from https://rsshub.app/sspai/index
+Token length: 20299
+Summarized using GPT-4-1106-preview
+Append: [少数派圆桌：从工具到方法，2024 年初再聊 AI](https://sspai.com/post/86901)
+Token length: 6750
+Summarized using GPT-3.5-turbo-1106
+Append: [一个「修仙体质」设计师尝试写作这一年](https://sspai.com/post/86604)
+append_entries: 2
+Finish: 2024-03-06 12:28:27.172879
