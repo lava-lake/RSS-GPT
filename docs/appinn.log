@@ -18370,3 +18370,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-03-07 08:15:12.116086
+------------------------------------------------------
+Started: 2024-03-07 10:14:06.045078
+Existing_entries: 294
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 58
+Summarized using GPT-3.5-turbo-1106
+Append: [怎样绕过网页的开发者工具(DevTools)屏蔽功能？](https://meta.appinn.net/t/topic/53578)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-03-07 10:14:11.518394
