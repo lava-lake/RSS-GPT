@@ -4,13 +4,14 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>怎样绕过网页的开发者工具(DevTools)屏蔽功能？</title>
 <link>https://meta.appinn.net/t/topic/53578</link>
 <guid>https://meta.appinn.net/t/topic/53578</guid>
 <content:encoded><![CDATA[
 <div> F12、网页、不加载、脚本、扩展
-<br><br>总结:
+<br /><br />总结:
 在网页加载中，有些网站会设置反爬虫功能来阻止用户使用F12等工具进行页面分析。一旦网页检测到用户启用了调试工具，便会停止加载内容。对于这种情况，用户可以尝试使用一些脚本或者浏览器扩展来屏蔽这种反爬虫功能，从而绕过网站的限制。通过使用这些工具，用户可以更好地进行页面分析和数据提取。 <div>
 <p>以<a href="https://surgeryu.aagl.org/view?m=SCf78aEs7" rel="noopener nofollow ugc">这个网页</a>为例，一点F12网页就不加载了。<br />
 有没有什么脚本或者扩展可以屏蔽这个反爬虫功能的？</p>
@@ -18,9 +19,7 @@
             <p><a href="https://meta.appinn.net/t/topic/53578">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 07 Mar 2024 09:59:21 +0000</pubDate>
-<pubDate>Thu, 07 Mar 2024 09:59:21 +0000</pubDate>
 </item>
-
 <item>
 <title>简单无广告的动漫搜索引擎</title>
 <link>https://meta.appinn.net/t/topic/53544</link>
