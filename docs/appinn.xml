@@ -4,13 +4,14 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>[开发者自荐]我花了两万块做了一个App，映画相机快速制作人物写真和数字分身</title>
 <link>https://meta.appinn.net/t/topic/53825</link>
 <guid>https://meta.appinn.net/t/topic/53825</guid>
 <content:encoded><![CDATA[
-<div> 映画相机，生成肖像图像，WaveCam，人工智能，面部图像<br>
-总结:<br>
+<div> 映画相机，生成肖像图像，WaveCam，人工智能，面部图像<br />
+总结:<br />
 映画相机（WaveCam）是一款用于生成一致肖像图像的应用，基于开源生态基础微调模型，支持60多种风格。用户可提交面部图像，生成高度相似的面部轮廓图像。用户权益得到保障，隐私数据得到妥善处理。开发过程中遇到挑战，如搭建推理服务器、内网穿透问题及Apple审核。未来计划支持安卓和小程序，欢迎用户反馈。 <div>
 <h2><a class="anchor" href="https://meta.appinn.net#h-1" name="h-1"></a>产品介绍</h2>
 <p>映画相机（WaveCam）是一款用于生成一致肖像图像的应用。与主流的基于人工智能的生成产品（如文本转图像和图像转图像）不同，我们基于开源生态基础之上微调了模型。用户可以提供面部图像，应用程序可以生成高度相似的面部轮廓图像。支持60多种风格。<br />
@@ -48,9 +49,7 @@
             <p><a href="https://meta.appinn.net/t/topic/53825">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 13 Mar 2024 06:42:16 +0000</pubDate>
-<pubDate>Wed, 13 Mar 2024 06:42:16 +0000</pubDate>
 </item>
-
 <item>
 <title>肝了2 天，把诗词的打印功能弄出来了。直接看图吧！</title>
 <link>https://meta.appinn.net/t/topic/53781</link>
