@@ -4,13 +4,14 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>Build a custom URL shortener</title>
 <link>https://brett.trpstra.net/link/535/16621740/build-a-custom-url-shortener</link>
 <guid>https://brett.trpstra.net/link/535/16621740/build-a-custom-url-shortener</guid>
 <content:encoded><![CDATA[
 <div> URL shortener, custom domain, PHP/mySQL, installation, new features
-<br><br>
+<br /><br />
 总结: 作者在文章中介绍了他建立自己的URL缩短器的经历和动机，他使用了PHP/mySQL技术，并在现有工具的基础上加入了自己的定制功能。安装过程简单，成本低廉，可以自定义多个设置，满足个人需求。作者还介绍了他建立的CloudFront实例和Dropzone目的地，以便文件分享。整体看来，文章激发了读者的兴趣，向他们展示了一个简单而有效的项目，并鼓励他们开始自己的有趣项目。 <div>
 <noscript class="loading-lazy">
                 <source media="(max-width: 640px)" />
@@ -58,9 +59,7 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16621740.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2024-03-16T13:00:00-05:00</pubDate>
-<pubDate>2024-03-16T13:00:00-05:00</pubDate>
 </item>
-
 <item>
 <title>Dimspirations Merch!</title>
 <link>https://brett.trpstra.net/link/535/16598996/dimspirations-merch</link>
