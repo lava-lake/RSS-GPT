@@ -4,15 +4,16 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>【网页更新提醒】任何网页，任何区域，我帮您盯着</title>
 <link>https://meta.appinn.net/t/topic/36976</link>
 <guid>https://meta.appinn.net/t/topic/36976</guid>
 <content:encoded><![CDATA[
 <div> 监控、网页、配置、圈选、预处理
-<br>
+<br />
 这是一款监控网页/RSS/API内容更新的工具，它支持监控网页、RSS、接口，并能方便地圈选任何网页上的区域。通过直观的差异对比功能可以保留原页面样式并高亮差异内容。支持监控特定关键词，忽略不感兴趣的内容更新并提供多种通知方式。另外，还有检测前、更新后、通知前的脚本预处理功能，也支持云端运行或私有化部署。同时，兼容存档和多账号登录检测等功能。这是一款功能丰富、灵活多样的监控工具。 
-<br><br>总结: <div>
+<br /><br />总结: <div>
 <p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://meta-cdn1.appinn.com/uploads/default/original/3X/d/8/d8872966287dad768d8d7a3dcb125f0e198f8439.jpeg" title="poster"><img alt="poster" height="388" src="https://meta-cdn1.appinn.com/uploads/default/optimized/3X/d/8/d8872966287dad768d8d7a3dcb125f0e198f8439_2_690x388.jpeg" width="690" /></a></div><p></p>
 <h2>
 <a class="anchor" href="https://meta.appinn.net#h-1" name="h-1"></a>简介</h2>
@@ -116,9 +117,7 @@
             <p><a href="https://meta.appinn.net/t/topic/36976">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 11 Oct 2022 12:18:31 +0000</pubDate>
-<pubDate>Tue, 11 Oct 2022 12:18:31 +0000</pubDate>
 </item>
-
 <item>
 <title>【开源自荐】用cf worker部署的临时邮箱服务</title>
 <link>https://meta.appinn.net/t/topic/53941</link>
