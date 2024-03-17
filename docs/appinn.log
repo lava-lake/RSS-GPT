@@ -19340,3 +19340,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-03-17 04:17:03.887856
+------------------------------------------------------
+Started: 2024-03-17 06:17:25.957154
+Existing_entries: 308
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Token length: 1316
+Summarized using GPT-3.5-turbo-1106
+Append: [老胡的周刊（第132期）](https://meta.appinn.net/t/topic/53935)
+append_entries: 1
+Finish: 2024-03-17 06:17:33.867427
