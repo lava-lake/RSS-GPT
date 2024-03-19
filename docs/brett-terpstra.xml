@@ -4,6 +4,7 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>Web Excursions for March 19, 2024</title>
 <link>https://brett.trpstra.net/link/535/16624673/web-excursions-for-march-19-2024</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Deckset, iOS, Markdown, OCR, Ground News
 
-Deckset即将推出iOS版本，让用户可以在iPhone/iPad上使用Markdown创建演示文稿。另外，iA Writer的创作者推出了基于同一引擎的新的Markdown演示文稿工具，看起来比Deckset更加流畅。此外，有一种新的macOS 13及以上版本的命令行界面工具，可以使用操作系统内置的OCR和转录框架，效果非常好。另外，Ground News是一个非常推荐的工具，可以帮助用户打破新闻茧房，了解不同观点，尤其可以帮助用户了解家长所在的信息茧房，以免在讨论某些话题时感到震惊。最后，作者推荐了CleanShot X作为Mac截图和录屏的工具。 <br><br>总结: Deckset即将推出iOS版本，新的基于Markdown的演示文稿工具推出，OCR工具表现很好，Ground News可帮助打破信息茧房，CleanShot X是作者推荐的Mac截图和录屏工具。 <div>
+Deckset即将推出iOS版本，让用户可以在iPhone/iPad上使用Markdown创建演示文稿。另外，iA Writer的创作者推出了基于同一引擎的新的Markdown演示文稿工具，看起来比Deckset更加流畅。此外，有一种新的macOS 13及以上版本的命令行界面工具，可以使用操作系统内置的OCR和转录框架，效果非常好。另外，Ground News是一个非常推荐的工具，可以帮助用户打破新闻茧房，了解不同观点，尤其可以帮助用户了解家长所在的信息茧房，以免在讨论某些话题时感到震惊。最后，作者推荐了CleanShot X作为Mac截图和录屏的工具。 <br /><br />总结: Deckset即将推出iOS版本，新的基于Markdown的演示文稿工具推出，OCR工具表现很好，Ground News可帮助打破信息茧房，CleanShot X是作者推荐的Mac截图和录屏工具。 <div>
 <noscript class="loading-lazy">
                 <source media="(max-width: 640px)" />
                 <source type="image/webp" />
@@ -42,9 +43,7 @@ Deckset即将推出iOS版本，让用户可以在iPhone/iPad上使用Markdown创
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16624673.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2024-03-19T10:33:00-05:00</pubDate>
-<pubDate>2024-03-19T10:33:00-05:00</pubDate>
 </item>
-
 <item>
 <title>Build a custom URL shortener</title>
 <link>https://brett.trpstra.net/link/535/16621740/build-a-custom-url-shortener</link>
