@@ -4,13 +4,14 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>【开源自荐】elasticsearch客户端：es-client</title>
 <link>https://meta.appinn.net/t/topic/54143</link>
 <guid>https://meta.appinn.net/t/topic/54143</guid>
 <content:encoded><![CDATA[
 <div> 页面美观，可视化查询，索引管理，数据导出，认证支持
-<br><br>总结:
+<br /><br />总结:
 es-client是一个功能强大的ES查询客户端，提供了美观的页面布局和可视化查询功能，使用户能够轻松构建查询条件。同时，还提供索引管理、数据导出和认证支持等功能，方便用户管理和组织数据，保护数据安全。另外，还提供了深色模式、JSON视图和表格视图等功能，同时具有低分辨率适应能力，为用户提供了高效、便捷和优质的服务体验。 <div>
 <p>es-client是一个功能强大的ES查询客户端，是一个功能完善的elasticsearch管理工具。</p>
 <p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://meta-cdn1.appinn.com/uploads/default/original/3X/b/2/b22e3d5e280a3311af24862d0a31c682e7049074.jpeg" title="image"><img alt="image" height="460" src="https://meta-cdn1.appinn.com/uploads/default/optimized/3X/b/2/b22e3d5e280a3311af24862d0a31c682e7049074_2_690x460.jpeg" width="690" /></a></div><p></p>
@@ -63,9 +64,7 @@ es-client是一个功能强大的ES查询客户端，提供了美观的页面布
             <p><a href="https://meta.appinn.net/t/topic/54143">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 21 Mar 2024 12:06:52 +0000</pubDate>
-<pubDate>Thu, 21 Mar 2024 12:06:52 +0000</pubDate>
 </item>
-
 <item>
 <title>Chrome的紧凑显示书签终于还是阵亡了</title>
 <link>https://meta.appinn.net/t/topic/54131</link>
