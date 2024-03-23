@@ -19979,3 +19979,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-03-23 10:14:34.936340
+------------------------------------------------------
+Started: 2024-03-23 12:27:31.505517
+Existing_entries: 321
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 89
+Summarized using GPT-3.5-turbo-1106
+Append: [永久记录浏览器历史且自动备份到云端的Chrome插件？](https://meta.appinn.net/t/topic/54225)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-03-23 12:27:37.342264
