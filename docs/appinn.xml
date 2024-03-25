@@ -4,15 +4,16 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>03-18~03-24.老胡的周刊（第134期）</title>
 <link>https://meta.appinn.net/t/topic/54326</link>
 <guid>https://meta.appinn.net/t/topic/54326</guid>
 <content:encoded><![CDATA[
-<div> Llama模型, Docker, Stable Diffusion GUI, Nextcloud, MacOS窗口管理, 创业手册, Transformers库, Haikei, PWA技术进展<br>
+<div> Llama模型, Docker, Stable Diffusion GUI, Nextcloud, MacOS窗口管理, 创业手册, Transformers库, Haikei, PWA技术进展<br />
 Llama模型在中文方面进行优化和高级技术社区建设；提供支持noVNC和视频录制的Android Docker解决方案；基于节点的Stable Diffusion GUI项目；基于Nextcloud的照片管理器；优雅的MacOS窗口管理软件；Sam Altman的创业手册文本；Transformers库的快速入门；Anthropic公司推出的提示词库；介绍PWA技术进展的网站。
 
-<br><br>总结:
+<br /><br />总结:
 本文记录了计算机领域的有价值信息，包括Llama模型中文优化、Android Docker解决方案、Stable Diffusion GUI项目、Nextcloud照片管理器、MacOS窗口管理软件等；同时推荐了一些有趣的项目和工具，如翻译器、Obtainium、Figma设计图浏览器扩展；还介绍了一些有用的资料和网站，如创业手册、Transformers库、Haikei和PWA技术进展网站。整体内容涵盖了技术社区、软件工具、资料和网站推荐，适合计算机领域的技术爱好者阅读参考。 <div>
 <blockquote>
 <p><a href="https://weekly.howie6879.com/" rel="noopener nofollow ugc">老胡的信息周刊</a>，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个<strong>留存</strong>以及<strong>共享</strong>。</p>
@@ -87,9 +88,7 @@ Llama模型在中文方面进行优化和高级技术社区建设；提供支持
             <p><a href="https://meta.appinn.net/t/topic/54326">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 25 Mar 2024 14:24:44 +0000</pubDate>
-<pubDate>Mon, 25 Mar 2024 14:24:44 +0000</pubDate>
 </item>
-
 <item>
 <title>【开发者自荐】用AI写的chrome插件sidebarTab-支持在chrome侧边栏打开一个固定网页</title>
 <link>https://meta.appinn.net/t/topic/54320</link>
