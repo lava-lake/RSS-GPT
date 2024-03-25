@@ -4,6 +4,7 @@
 <title>Byte Tank - Pedro Lopes Blog</title>
 <link>http://lopespm.github.io/</link>
 
+
 <item>
 <title>Minimalist Onyx BOOX Note Air3 B/W Setup</title>
 <link>http://lopespm.github.io/notes/2024/03/25/minimalist_boox.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> 写作设备, 减少干扰, 定制, 外接键盘, 写作和绘画
 
-总结:<br><br>文章介绍了作者如何通过使用Onyx BOOX Note Air3 B/W这款Android平板来减少睡前和醒来后的干扰，增强专注力。作者安装了Google Keep和Google Docs，使用Lawnchair Launcher、外接键盘以及Onyx的Sketch app。通过禁用不必要的应用程序，提高设备性能，作者可以专注于写作和绘画。设备的反应速度可能不是很快，但对于长时间的写作来说是足够的。然而，绘图功能需要通过额外的步骤才能分享到其他设备。总的来说，这款设备提供了很好的定制性和专注力，适合作者的使用需求。 <div>
+总结:<br /><br />文章介绍了作者如何通过使用Onyx BOOX Note Air3 B/W这款Android平板来减少睡前和醒来后的干扰，增强专注力。作者安装了Google Keep和Google Docs，使用Lawnchair Launcher、外接键盘以及Onyx的Sketch app。通过禁用不必要的应用程序，提高设备性能，作者可以专注于写作和绘画。设备的反应速度可能不是很快，但对于长时间的写作来说是足够的。然而，绘图功能需要通过额外的步骤才能分享到其他设备。总的来说，这款设备提供了很好的定制性和专注力，适合作者的使用需求。 <div>
 <p>As part of the plan to banish mobile phones with access to instant rewards from my bedroom (more on this in an upcoming post), I’ve acquired a Onyx BOOX Note Air3 B/W, which is a Android tablet with a black and white e-ink screen that is focused on writing and reading <sup id="fnref:1"><a href="https://lopespm.com/atom.xml#fn:1" rel="footnote">1</a></sup></p>
 
 <h2 id="house-rules">House Rules</h2>
@@ -213,10 +214,8 @@ adb shell pm disable-user --user 0 com.onyx.calculator
   </ol>
 </div>
 ]]></content:encoded>
-
 <pubDate>2024-03-25T00:00:00+00:00</pubDate>
 </item>
-
 <item>
 <title>Musk's biography: why it's interesting</title>
 <link>http://lopespm.github.io/notes/2024/02/18/elon_musk_biography.html</link>
