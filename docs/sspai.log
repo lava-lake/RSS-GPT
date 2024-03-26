@@ -18453,3 +18453,12 @@ Existing_entries: 661
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-26 01:03:40.492092
+------------------------------------------------------
+Started: 2024-03-26 02:20:16.330229
+Existing_entries: 661
+Fetching from https://rsshub.app/sspai/index
+Token length: 2180
+Summarized using GPT-3.5-turbo-1106
+Append: [派早报：欧盟对 Apple 等公司展开新一轮调查，英特尔和 ARM 签署备忘录等](https://sspai.com/post/87554)
+append_entries: 1
+Finish: 2024-03-26 02:20:27.146714
