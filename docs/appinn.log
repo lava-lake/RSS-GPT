@@ -20362,3 +20362,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-03-27 06:18:56.370977
+------------------------------------------------------
+Started: 2024-03-27 08:19:39.875747
+Existing_entries: 326
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [【开发工具，送码】Tempest 是一款跨平台、云同步、隐私优先的 SSH 客户端 和 Kubernetes 终端](https://meta.appinn.net/t/topic/54408)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-03-27 08:19:50.168540
