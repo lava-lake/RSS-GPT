@@ -18588,3 +18588,12 @@ Existing_entries: 670
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-03-27 12:27:36.966671
+------------------------------------------------------
+Started: 2024-03-27 14:14:27.210620
+Existing_entries: 670
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [5 个维度、6 个 App，帮你选出最适合自己的「背单词神器」](https://sspai.com/post/87587)
+append_entries: 1
+Finish: 2024-03-27 14:14:32.930048
