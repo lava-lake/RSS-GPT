@@ -4,6 +4,7 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>Web Excursions for March 29, 2024</title>
 <link>https://brett.trpstra.net/link/535/16635234/web-excursions-for-march-29-2024</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Mac, app, intention, Terminal, keycap
 
-总结:<br><br>本文介绍了一款简单优雅的Mac应用，可以设定工作意图并提醒用户专注于目标；另外分享了针对Terminal用户的BBEdit技巧，以及一款适用于Gmail的本地Mac邮件客户端；最后作者还提到了替换自定义按键帽的心得体会。文章还提到了作者的网站BrettTerpstra.com的读者支持。 <div>
+总结:<br /><br />本文介绍了一款简单优雅的Mac应用，可以设定工作意图并提醒用户专注于目标；另外分享了针对Terminal用户的BBEdit技巧，以及一款适用于Gmail的本地Mac邮件客户端；最后作者还提到了替换自定义按键帽的心得体会。文章还提到了作者的网站BrettTerpstra.com的读者支持。 <div>
 <noscript class="loading-lazy">
                 <source media="(max-width: 640px)" />
                 <source type="image/webp" />
@@ -42,9 +43,7 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16635234.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2024-03-29T12:10:00-05:00</pubDate>
-<pubDate>2024-03-29T12:10:00-05:00</pubDate>
 </item>
-
 <item>
 <title>Revisiting TagFiler and Vitag</title>
 <link>https://brett.trpstra.net/link/535/16628513/revisiting-tagfiler-and-vitag</link>
