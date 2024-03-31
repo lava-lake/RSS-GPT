@@ -20767,3 +20767,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-03-31 06:17:43.152227
+------------------------------------------------------
+Started: 2024-03-31 08:18:47.956169
+Existing_entries: 333
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Token length: 742
+Summarized using GPT-3.5-turbo-1106
+Append: [饼图大师(PieChartMaster)- 终极饼图/玫瑰图制作工具! ｜ 限时免费](https://meta.appinn.net/t/topic/54573)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-03-31 08:18:54.111896
