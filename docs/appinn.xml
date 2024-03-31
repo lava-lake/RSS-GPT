@@ -4,13 +4,14 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>【Tampermonkey/油猴】V2EX 主题回复增强</title>
 <link>https://meta.appinn.net/t/topic/36431</link>
 <guid>https://meta.appinn.net/t/topic/36431</guid>
 <content:encoded><![CDATA[
-<div> V2EX, 主题回复, 增强, Tampermonkey, 油猴<br>
-开发者自荐, 主题回复关联增强, V2EX 回复链接弹窗, 简化浏览体验, 支持 Token 配置<br><br>总结:
+<div> V2EX, 主题回复, 增强, Tampermonkey, 油猴<br />
+开发者自荐, 主题回复关联增强, V2EX 回复链接弹窗, 简化浏览体验, 支持 Token 配置<br /><br />总结:
 这是一个针对V2EX论坛的主题回复增强软件，通过Tampermonkey/油猴平台使用。它可以使V2EX主题回复之间产生关联，点击回复的链接可以打开相关的回复内容弹窗，从而简化浏览体验。首次使用时需要允许弹出窗口并进行Token配置。软件通过开发者自荐推荐使用。 <div>
 <h1><a class="anchor" href="https://meta.appinn.net#h-1" name="h-1"></a>软件名称</h1>
 <p>V2EX 主题回复增强</p>
@@ -34,7 +35,6 @@
             <p><a href="https://meta.appinn.net/t/topic/36431">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 21 Sep 2022 10:04:10 +0000</pubDate>
-<pubDate>Wed, 21 Sep 2022 10:04:10 +0000</pubDate>
 </item>
 <item>
 <title>【开发者自荐】DevHub 免费的开发者集成工具</title>
@@ -42,9 +42,9 @@
 <guid>https://meta.appinn.net/t/topic/54570</guid>
 <content:encoded><![CDATA[
 <div> DevHub, MacOS, 开发者自荐, 应用平台, 软件名称
-<br>
+<br />
 DevHub是一个功能丰富的离线应用程序，旨在支持开发人员的日常任务，并确保其数据的最高安全性。开发者致力于每周发布更新，提供包含多样化工具的广泛集合，已完成的工具包括API请求、正则表达式测试、密码生成器等。该应用在Github上积极搜集需求，为开发人员提供更多服务。官网：<网址>。 
-<br><br>总结：DevHub是一款MacOS平台上的功能丰富的开发者工具，通过开发者自荐推荐。它提供了许多小工具，旨在支持开发人员的日常任务，并确保数据的安全性。同时，它还在Github上积极搜集需求，以不断完善和增强其功能。 <div>
+<br /><br />总结：DevHub是一款MacOS平台上的功能丰富的开发者工具，通过开发者自荐推荐。它提供了许多小工具，旨在支持开发人员的日常任务，并确保数据的安全性。同时，它还在Github上积极搜集需求，以不断完善和增强其功能。 <div>
 <h2><a class="anchor" href="https://meta.appinn.net#h-1" name="h-1"></a>软件名称</h2>
 <p>DevHub</p>
 <h2><a class="anchor" href="https://meta.appinn.net#h-2" name="h-2"></a>应用平台</h2>
@@ -163,9 +163,7 @@ DevHub是一个功能丰富的离线应用程序，旨在支持开发人员的�
             <p><a href="https://meta.appinn.net/t/topic/54570">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Sun, 31 Mar 2024 04:01:15 +0000</pubDate>
-<pubDate>Sun, 31 Mar 2024 04:01:15 +0000</pubDate>
 </item>
-
 <item>
 <title>全平台（网页）保持屏幕常亮 Keep Screen On【用户推荐】</title>
 <link>https://meta.appinn.net/t/topic/54508</link>
