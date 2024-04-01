@@ -20845,3 +20845,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-04-01 01:10:10.990183
+------------------------------------------------------
+Started: 2024-04-01 02:28:53.907134
+Existing_entries: 335
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 81
+Summarized using GPT-3.5-turbo-1106
+Append: [可选择可输入的网页控件浏览器密码如何自动填充？](https://meta.appinn.net/t/topic/54600)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-04-01 02:29:03.651861
