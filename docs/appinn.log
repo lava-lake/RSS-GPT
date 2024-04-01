@@ -20896,3 +20896,17 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-04-01 12:28:19.582144
+------------------------------------------------------
+Started: 2024-04-01 14:13:47.807041
+Existing_entries: 336
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Token length: 43
+Summarized using GPT-3.5-turbo-1106
+Append: [奇妙搜索用不了，有什么好的网盘聚合搜索替代品么？](https://meta.appinn.net/t/topic/54634)
+Token length: 101
+Summarized using GPT-3.5-turbo-1106
+Append: [有没有能在快速在 safari 加入单字本的插件？](https://meta.appinn.net/t/topic/54633)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 2
+Finish: 2024-04-01 14:14:05.497075
