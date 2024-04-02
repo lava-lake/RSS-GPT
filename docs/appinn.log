@@ -20974,3 +20974,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-04-02 06:19:34.639335
+------------------------------------------------------
+Started: 2024-04-02 08:18:51.812644
+Existing_entries: 338
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Token length: 82
+Summarized using GPT-3.5-turbo-1106
+Append: [【开源自荐】vfox: 一个工具管理所有运行时版本!](https://meta.appinn.net/t/topic/54675)
+append_entries: 1
+Finish: 2024-04-02 08:18:56.779516
