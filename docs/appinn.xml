@@ -4,13 +4,14 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>【开源自荐】vfox: 一个工具管理所有运行时版本!</title>
 <link>https://meta.appinn.net/t/topic/54675</link>
 <guid>https://meta.appinn.net/t/topic/54675</guid>
 <content:encoded><![CDATA[
 <div> Windows, 仓库, asdf, 效果, 实际演示
-<br><br>总结:
+<br /><br />总结:
 这篇文章介绍了在Windows系统下，可以体验到和asdf相似效果的仓库管理工具。同时对比了该工具与asdf的差异，并演示了其实际操作效果。 <div>
 <p>文档: <a class="inline-onebox" href="https://vfox.lhan.me/zh-hans/" rel="noopener nofollow ugc">vfox | 跨平台、可拓展的版本管理器</a></p>
 <p>仓库: <a class="inline-onebox" href="https://github.com/version-fox/vfox" rel="noopener nofollow ugc">GitHub - version-fox/vfox: A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net &amp; more</a></p>
@@ -22,9 +23,7 @@
             <p><a href="https://meta.appinn.net/t/topic/54675">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 02 Apr 2024 07:19:17 +0000</pubDate>
-<pubDate>Tue, 02 Apr 2024 07:19:17 +0000</pubDate>
 </item>
-
 <item>
 <title>奇妙搜索用不了，有什么好的网盘聚合搜索替代品么？</title>
 <link>https://meta.appinn.net/t/topic/54634</link>
