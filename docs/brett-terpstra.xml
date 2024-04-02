@@ -4,13 +4,14 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>Automating the Dimspirations workflow</title>
 <link>https://brett.trpstra.net/link/535/16637190/automating-the-dimspirations-workflow</link>
 <guid>https://brett.trpstra.net/link/535/16637190/automating-the-dimspirations-workflow</guid>
 <content:encoded><![CDATA[
 <div> Affinity Photo, automation, image processing, website deployment, Canva
-<br><br>总结:
+<br /><br />总结:
 这篇文章介绍了作者如何利用Affinity Photo和自动化工具来创建和发布Dimspirations（一种壁纸设计）。作者详细描述了整个自动化流程，包括Affinity Photo模板的设计、Hazel和RetroBatch的运用、Rake和Howzit等工具的使用，以及整个网站部署过程。文章还涉及了Affinity被Canva收购后的问题。整篇文章牵涉到图片处理、网站开发和自动化工具的使用，是一篇很详细的技术教程。 <div>
 <noscript class="loading-lazy">
                 <source media="(max-width: 640px)" />
@@ -138,9 +139,7 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16637190.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2024-04-01T14:53:00-05:00</pubDate>
-<pubDate>2024-04-01T14:53:00-05:00</pubDate>
 </item>
-
 <item>
 <title>Web Excursions for March 29, 2024</title>
 <link>https://brett.trpstra.net/link/535/16635234/web-excursions-for-march-29-2024</link>
