@@ -4,13 +4,14 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>CurlyQ and automated JavaScript execution</title>
 <link>https://brett.trpstra.net/link/535/16641718/curlyq-and-automated-javascript-execution</link>
 <guid>https://brett.trpstra.net/link/535/16641718/curlyq-and-automated-javascript-execution</guid>
 <content:encoded><![CDATA[
-<div> JavaScript execution, Command-line web automation, CurlyQ, Screenshots, Automation<br>
-CurlyQ是一个命令行网络自动化工具，现在可以执行JavaScript代码，并且可以通过命令行提取网页内容、保存截图等功能。新增的参数--script可以接受JavaScript代码字符串或者从标准输入中读取，还可以指定等待加载的元素ID。另外，新增了一个子命令execute，可以在浏览器中加载页面并执行脚本。通过这些功能，可以实现对菜单项的自动截图，大大节省了文档编写的时间。可通过gem install curlyq命令获取最新版本的CurlyQ。  <br><br>总结: CurlyQ是一款命令行网络自动化工具，新增了JavaScript执行和截图等功能，特别适合用于文档编写。 <div>
+<div> JavaScript execution, Command-line web automation, CurlyQ, Screenshots, Automation<br />
+CurlyQ是一个命令行网络自动化工具，现在可以执行JavaScript代码，并且可以通过命令行提取网页内容、保存截图等功能。新增的参数--script可以接受JavaScript代码字符串或者从标准输入中读取，还可以指定等待加载的元素ID。另外，新增了一个子命令execute，可以在浏览器中加载页面并执行脚本。通过这些功能，可以实现对菜单项的自动截图，大大节省了文档编写的时间。可通过gem install curlyq命令获取最新版本的CurlyQ。  <br /><br />总结: CurlyQ是一款命令行网络自动化工具，新增了JavaScript执行和截图等功能，特别适合用于文档编写。 <div>
 <p>I&rsquo;ve been wanting to add JavaScript execution to <a href="https://brettterpstra.com/projects/curlyq/" title="CurlyQ">CurlyQ</a> for a while and finally got around to it.</p>
 
 <p>In case you&rsquo;ve missed it, <a href="https://brettterpstra.com/projects/curlyq/" title="CurlyQ">CurlyQ</a> is my command-line web automation tool for fetching, parsing, and responding to web page content, designed to be used as part of a *NIX pipeline. It can grab titles, links, metadata, and more from any web page. As part of its functionality, it can also use Firefox or Chrome to save screenshots, and that&rsquo;s part of what I&rsquo;ve improved.</p>
@@ -32,9 +33,7 @@ CurlyQ是一个命令行网络自动化工具，现在可以执行JavaScript代�
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16641718.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2024-04-04T13:24:00-05:00</pubDate>
-<pubDate>2024-04-04T13:24:00-05:00</pubDate>
 </item>
-
 <item>
 <title>On using a CDN</title>
 <link>https://brett.trpstra.net/link/535/16638813/on-using-a-cdn</link>
