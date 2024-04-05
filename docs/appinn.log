@@ -21265,3 +21265,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-04-05 06:19:03.391666
+------------------------------------------------------
+Started: 2024-04-05 08:20:20.849373
+Existing_entries: 339
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Token length: 265
+Summarized using GPT-3.5-turbo-1106
+Append: [2024了，有哪些好用的软件或功能是其他系统还没有的？](https://meta.appinn.net/t/topic/54785)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-04-05 08:20:26.574722
