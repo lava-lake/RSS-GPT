@@ -21504,3 +21504,17 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-04-07 14:13:17.492547
+------------------------------------------------------
+Started: 2024-04-07 16:16:41.621585
+Existing_entries: 344
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Token length: 937
+Summarized using GPT-3.5-turbo-1106
+Append: [04-01~04-07.老胡的周刊（第136期）](https://meta.appinn.net/t/topic/54868)
+Token length: 1313
+Summarized using GPT-3.5-turbo-1106
+Append: [老胡的周刊（第100期）](https://meta.appinn.net/t/topic/45904)
+append_entries: 2
+Finish: 2024-04-07 16:16:52.860870
