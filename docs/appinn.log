@@ -21439,3 +21439,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-04-07 01:10:11.512045
+------------------------------------------------------
+Started: 2024-04-07 02:24:36.997932
+Existing_entries: 341
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Token length: 309
+Summarized using GPT-3.5-turbo-1106
+Append: [【重大更新】DSCloud 迎来了黑暗模式和Emby链接方式](https://meta.appinn.net/t/topic/54836)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-04-07 02:24:47.782471
