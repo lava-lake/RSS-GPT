@@ -19629,3 +19629,12 @@ Existing_entries: 709
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-09 08:18:49.489321
+------------------------------------------------------
+Started: 2024-04-09 10:18:30.322923
+Existing_entries: 709
+Fetching from https://rsshub.app/sspai/index
+Token length: 3574
+Summarized using GPT-3.5-turbo-1106
+Append: [再见你好吗：在 2024 回顾 Windows 的移动之梦](https://sspai.com/post/87907)
+append_entries: 1
+Finish: 2024-04-09 10:18:33.728898
