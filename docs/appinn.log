@@ -21780,3 +21780,11 @@ Summarized using GPT-3.5-turbo-1106
 Append: [【自荐】Pixboard: 只是一个能在桌面上放置模拟LED/CRT/VFD复古屏小摆件的App](https://meta.appinn.net/t/topic/54971)
 append_entries: 1
 Finish: 2024-04-10 08:21:37.943323
+------------------------------------------------------
+Started: 2024-04-10 10:17:08.616742
+Existing_entries: 348
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-04-10 10:17:12.005723

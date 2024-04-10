@@ -4,6 +4,7 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>【自荐】Pixboard: 只是一个能在桌面上放置模拟LED/CRT/VFD复古屏小摆件的App</title>
 <link>https://meta.appinn.net/t/topic/54971</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Pixboard, 官网, 下载, 屏幕模拟, 免费开源
 
-总结:<br>
+总结:<br />
 Pixboard是一个在Mac屏幕上放置模拟LED像素屏/老式CRT/VFD显像管的小挂件的App。该软件使用SwiftUI编写，体积小巧轻量化，支持多种静态图像格式和gif动图，还支持HDR显示。此外，Pixboard还有精调的10种滤镜效果。此软件是免费开源的，代码透明，不收集上传用户隐私。在使用时需要注意在支持HDR显示的屏幕上开启HDR以提升显示效果，但长时间在分区背光设备上显示HDR可能会加速灯珠的寿命消耗。总之，Pixboard是一个纯自娱自乐的项目，如果用户觉得用得顺手，可以在github页面最底部扫码打赏，以此支持开发者创造更多开源软件。 <div>
 <h2><a class="anchor" href="https://meta.appinn.net#h-1" name="h-1"></a>软件名称</h2>
 <p>Pixboard</p>
@@ -59,9 +60,7 @@ Pixboard是一个在Mac屏幕上放置模拟LED像素屏/老式CRT/VFD显像管�
             <p><a href="https://meta.appinn.net/t/topic/54971">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 10 Apr 2024 06:30:08 +0000</pubDate>
-<pubDate>Wed, 10 Apr 2024 06:30:08 +0000</pubDate>
 </item>
-
 <item>
 <title>HamHub iOS播放器 轻松管理阿里云盘及EMBY影视资源！</title>
 <link>https://meta.appinn.net/t/topic/54876</link>
