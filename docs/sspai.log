@@ -19899,3 +19899,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [为了发现更多感觉兴趣的播客，我开发了一款工具](https://sspai.com/post/87991)
 append_entries: 3
 Finish: 2024-04-12 12:27:33.647596
+------------------------------------------------------
+Started: 2024-04-12 14:14:14.332911
+Existing_entries: 723
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-04-12 14:14:14.567378
