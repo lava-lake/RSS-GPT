@@ -5,12 +5,30 @@
 <link>https://meta.appinn.net/tag/macos</link>
 
 <item>
+<title>话说现在chromium系浏览器到底还有没有不用开发者模式在国内装插件的办法？</title>
+<link>https://meta.appinn.net/t/topic/55075</link>
+<guid>https://meta.appinn.net/t/topic/55075</guid>
+<content:encoded><![CDATA[
+<div> 插件站, Chromium浏览器, 下载crx解压, 开发者模式, 360极速, 插件商店<br><br>总结: 本帖讨论了使用Chromium浏览器安装插件的问题。在国内，插件站大多需要下载crx解压并拖入浏览器，而开发者模式操作复杂，不适合小白用户。360极速曾有插件商店，但如今已下架，导致使用Chromium浏览器安装插件变得困难，尤其在帮助他人时更加麻烦。 <div>
+<p>天天有chromium浏览器选择的帖子，怎么没人提这个呢？</p>
+<p>国内的插件站毫无意外都是下载crx解压拖进去。<br />
+chromium的开发者模式又蛋疼的天天警告你。而且这类操作没法教小白，每次有人问我你的浏览器怎么跟我不一样，我也要你这个。我都为之一顿，怎么办，我总不能教人家翻墙吧？教一个小白用开发者模式也不靠谱啊</p>
+<p>最早360极速有插件商店，主流插件还都有，但现在全部下架了，挺好个插件站，最近还改了ui，但一共没几个插件。反正也约等于没有吧。</p>
+<p>你们都是咋办的？老婆的浏览器装插件都得每次我来搞呢。</p>
+            <p><small>5 个帖子 - 4 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/55075">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Fri, 12 Apr 2024 03:57:10 +0000</pubDate>
+<pubDate>Fri, 12 Apr 2024 03:57:10 +0000</pubDate>
+</item>
+
+<item>
 <title>【自荐】通过打卡的方式写日记，一个小于 1MB 的 iOS 日记软件</title>
 <link>https://meta.appinn.net/t/topic/31337</link>
 <guid>https://meta.appinn.net/t/topic/31337</guid>
 <content:encoded><![CDATA[
-<div> 打卡, 日记, iOS, TinyDay, 打卡记录<br>
-TinyDay 是一款iOS平台的日记软件，通过打卡的方式帮助用户记录生活点滴。与传统的日记软件不同，TinyDay鼓励用户随时随地进行打卡，记录喝咖啡、吃饭、看展览、上班摸鱼等生活琐事。应用的核心功能是打卡，用户可以创建任何频道进行打卡，并可以记录一些结构化的属性，同时还提供简单的记账功能。未来计划支持小组件、Apple Watch和健康数据打通。应用体积轻巧且支持iCloud同步和CSV导出，保证用户数据安全可控。总之，TinyDay致力于帮助用户轻松记录生活，保持日记的轻量级，非必要功能不添加。 <br><br>总结: TinyDay是一款iOS日记软件，通过打卡的方式记录生活点滴，支持多种功能和未来的发展计划。 <div>
+<div> 打卡, 日记, iOS, TinyDay, 打卡记录<br />
+TinyDay 是一款iOS平台的日记软件，通过打卡的方式帮助用户记录生活点滴。与传统的日记软件不同，TinyDay鼓励用户随时随地进行打卡，记录喝咖啡、吃饭、看展览、上班摸鱼等生活琐事。应用的核心功能是打卡，用户可以创建任何频道进行打卡，并可以记录一些结构化的属性，同时还提供简单的记账功能。未来计划支持小组件、Apple Watch和健康数据打通。应用体积轻巧且支持iCloud同步和CSV导出，保证用户数据安全可控。总之，TinyDay致力于帮助用户轻松记录生活，保持日记的轻量级，非必要功能不添加。 <br /><br />总结: TinyDay是一款iOS日记软件，通过打卡的方式记录生活点滴，支持多种功能和未来的发展计划。 <div>
 <h2>
 <a class="anchor" href="https://meta.appinn.net#h-1" name="h-1"></a>软件名称</h2>
 <p>TinyDay</p>
@@ -48,9 +66,7 @@ TinyDay 是一款iOS平台的日记软件，通过打卡的方式帮助用户记
             <p><a href="https://meta.appinn.net/t/topic/31337">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 02 Apr 2022 06:57:13 +0000</pubDate>
-<pubDate>Sat, 02 Apr 2022 06:57:13 +0000</pubDate>
 </item>
-
 <item>
 <title>求，精简浏览器右键菜单</title>
 <link>https://meta.appinn.net/t/topic/55011</link>

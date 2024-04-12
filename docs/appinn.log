@@ -21954,3 +21954,14 @@ Append: [【自荐】通过打卡的方式写日记，一个小于 1MB 的 iOS �
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-04-12 02:26:09.572779
+------------------------------------------------------
+Started: 2024-04-12 04:19:01.686484
+Existing_entries: 350
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 262
+Summarized using GPT-3.5-turbo-1106
+Append: [话说现在chromium系浏览器到底还有没有不用开发者模式在国内装插件的办法？](https://meta.appinn.net/t/topic/55075)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-04-12 04:19:07.441880
