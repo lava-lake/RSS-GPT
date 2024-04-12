@@ -19884,3 +19884,18 @@ Existing_entries: 720
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-12 10:16:21.057126
+------------------------------------------------------
+Started: 2024-04-12 12:27:21.457630
+Existing_entries: 720
+Fetching from https://rsshub.app/sspai/index
+Token length: 9784
+Summarized using GPT-3.5-turbo-1106
+Append: [本周看什么 | 最近值得一看的好一些作品](https://sspai.com/post/88024)
+Token length: 0
+Summarized using GPT-3.5-turbo-1106
+Append: [新兴云端部署服务 Zeabur 创始团队都装了啥？](https://sspai.com/post/87993)
+Token length: 2351
+Summarized using GPT-3.5-turbo-1106
+Append: [为了发现更多感觉兴趣的播客，我开发了一款工具](https://sspai.com/post/87991)
+append_entries: 3
+Finish: 2024-04-12 12:27:33.647596
