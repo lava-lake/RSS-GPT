@@ -20079,3 +20079,12 @@ Existing_entries: 727
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-15 08:15:44.035517
+------------------------------------------------------
+Started: 2024-04-15 10:14:22.061878
+Existing_entries: 727
+Fetching from https://rsshub.app/sspai/index
+Token length: 2529
+Summarized using GPT-3.5-turbo-1106
+Append: [初见山西，记住大同](https://sspai.com/post/87791)
+append_entries: 1
+Finish: 2024-04-15 10:14:26.223709
