@@ -20304,3 +20304,12 @@ Existing_entries: 738
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-18 01:04:58.158546
+------------------------------------------------------
+Started: 2024-04-18 02:24:06.491511
+Existing_entries: 738
+Fetching from https://rsshub.app/sspai/index
+Token length: 2164
+Summarized using GPT-3.5-turbo-1106
+Append: [派早报：AMD 发布锐龙 PRO 系列处理器、Adobe Acrobat 上线 AI 助手等](https://sspai.com/post/88145)
+append_entries: 1
+Finish: 2024-04-18 02:24:11.233289
