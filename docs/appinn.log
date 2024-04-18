@@ -22546,3 +22546,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-04-18 12:27:05.950004
+------------------------------------------------------
+Started: 2024-04-18 14:14:04.774935
+Existing_entries: 358
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 256
+Summarized using GPT-3.5-turbo-1106
+Append: [【自荐】新百词斩助手浏览器插件](https://meta.appinn.net/t/topic/55375)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-04-18 14:14:11.161075
