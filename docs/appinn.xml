@@ -4,13 +4,14 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>【自荐】新百词斩助手浏览器插件</title>
 <link>https://meta.appinn.net/t/topic/55375</link>
 <guid>https://meta.appinn.net/t/topic/55375</guid>
 <content:encoded><![CDATA[
-<div> 插件, 功能, 翻译, 单词本, 学习<br>
-新百词斩网页助手是一款Chrome插件，可以支持用户取词翻译、管理单词本等操作，并且可以将收藏的单词同步至百词斩APP中。作者将项目从原本的jQuery UI改造成了wxt.dev + Vue，代码组织性更强，而且还很容易编译支持Firefox平台。这款助手能够帮助学习英语的用户更好地掌握单词，是一个很实用的工具。<br><br>总结: 插件功能丰富，支持翻译和单词本管理，作者对项目进行了重写并开源，助手能够帮助用户更好地学习英语。 <div>
+<div> 插件, 功能, 翻译, 单词本, 学习<br />
+新百词斩网页助手是一款Chrome插件，可以支持用户取词翻译、管理单词本等操作，并且可以将收藏的单词同步至百词斩APP中。作者将项目从原本的jQuery UI改造成了wxt.dev + Vue，代码组织性更强，而且还很容易编译支持Firefox平台。这款助手能够帮助学习英语的用户更好地掌握单词，是一个很实用的工具。<br /><br />总结: 插件功能丰富，支持翻译和单词本管理，作者对项目进行了重写并开源，助手能够帮助用户更好地学习英语。 <div>
 <h2><a class="anchor" href="https://meta.appinn.net#h-1" name="h-1"></a>功能简介</h2>
 <p>新百词斩网页助手，支持取词翻译、收藏单词等操作（可同步至百词斩APP中）</p>
 <h2><a class="anchor" href="https://meta.appinn.net#h-2" name="h-2"></a>创作说明</h2>
@@ -31,9 +32,7 @@
             <p><a href="https://meta.appinn.net/t/topic/55375">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 18 Apr 2024 14:02:36 +0000</pubDate>
-<pubDate>Thu, 18 Apr 2024 14:02:36 +0000</pubDate>
 </item>
-
 <item>
 <title>【自荐】创业零基础自己记账报税软件，自记账app（付费但很实用）</title>
 <link>https://meta.appinn.net/t/topic/55356</link>
