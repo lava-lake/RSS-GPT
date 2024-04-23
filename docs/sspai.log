@@ -20745,3 +20745,15 @@ Existing_entries: 755
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-23 10:15:38.858844
+------------------------------------------------------
+Started: 2024-04-23 12:29:06.846061
+Existing_entries: 755
+Fetching from https://rsshub.app/sspai/index
+Token length: 6106
+Summarized using GPT-3.5-turbo-1106
+Append: [社区速递 041 | 派友速食大曝光、老乡鸡以及作者的新玩意](https://sspai.com/post/88290)
+Token length: 2011
+Summarized using GPT-3.5-turbo-1106
+Append: [App+1｜看过太多意外，我们做了个 App 来记录「身体信号」：BodyKnows](https://sspai.com/post/88207)
+append_entries: 2
+Finish: 2024-04-23 12:29:17.072703
