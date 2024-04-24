@@ -23154,3 +23154,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-04-24 14:16:00.939004
+------------------------------------------------------
+Started: 2024-04-24 16:18:22.572023
+Existing_entries: 366
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Token length: 1260
+Summarized using GPT-3.5-turbo-1106
+Append: [【健康与睡眠】StaySleep - 熬夜热力图：iOS 熬夜情况记录与睡眠质量分析](https://meta.appinn.net/t/topic/55621)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-04-24 16:18:28.788909
