@@ -23105,3 +23105,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-04-24 04:17:34.866346
+------------------------------------------------------
+Started: 2024-04-24 06:22:28.671946
+Existing_entries: 363
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Token length: 497
+Summarized using GPT-3.5-turbo-1106
+Append: [【自建】Neckee：为了缓解自己的肩颈疼痛，我们做了一个小工具](https://meta.appinn.net/t/topic/55604)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-04-24 06:22:36.100325
