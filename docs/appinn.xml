@@ -4,13 +4,14 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>Chrome 有什么推荐的文字朗读插件/脚本？</title>
 <link>https://meta.appinn.net/t/topic/55617</link>
 <guid>https://meta.appinn.net/t/topic/55617</guid>
 <content:encoded><![CDATA[
 <div> Edge, Chrome, 文字朗读, 插件, 高亮
-<br><br>总结:
+<br /><br />总结:
 在使用文字朗读功能时，发现Edge的功能更适合自己的需求，但在Chrome上寻找插件时遇到了一些问题。试过的插件中，naturalreaders只能在阅读模式下使用，Clearly Reader不支持朗读功能，Read Aloud功能有限且操作不方便。虽然尝试了其他插件和油猴脚本，但总体来说功能都不太符合要求。 <div>
 <p>我目前还使用着Edge的文字朗读功能，双浏览器切换有些不方便<br />
 Edge有着我刚需的功能：</p>
@@ -32,15 +33,14 @@ Edge有着我刚需的功能：</p>
             <p><a href="https://meta.appinn.net/t/topic/55617">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 24 Apr 2024 10:12:22 +0000</pubDate>
-<pubDate>Wed, 24 Apr 2024 10:12:22 +0000</pubDate>
 </item>
 <item>
 <title>【自荐】QuickRecorder: 开源免费的轻量化多功能 macOS 录屏工具</title>
 <link>https://meta.appinn.net/t/topic/55611</link>
 <guid>https://meta.appinn.net/t/topic/55611</guid>
 <content:encoded><![CDATA[
-<div> QuickRecorder, macOS 13, 屏幕录制, 开源, 录音<br>
-<br>
+<div> QuickRecorder, macOS 13, 屏幕录制, 开源, 录音<br />
+<br />
 软件名为QuickRecorder，是一款基于ScreenCapture Kit开发的多功能、轻量化、高性能开源macOS屏幕录制工具，适用于macOS 13及以上版本。该软件采用SwiftUI编写，功能专一，体积小巧，仅不到5M。支持全屏、区域、单/多窗口、单/多App等录制模式，免驱动内录系统声音，独立录制程序/窗口声音。完全免费开源，代码透明，不收集上传任何用户隐私。同时录制程序声音和麦克风的情况下，QuickRecorder会将麦克风声音录制到新的额外音轨，而不是和程序声音混缩在同一条音轨上。软件更新日志显示，最新版本添加了App排除列表功能，改进了偏好设置面板的布局。软件完全开源免费使用，用户可在github页面最底部扫码打赏以支持开发者创造更多开源软件。 <div>
 <h2><a class="anchor" href="https://meta.appinn.net#h-1" name="h-1"></a>软件名称</h2>
 <p><strong>QuickRecorder</strong></p>
@@ -89,9 +89,7 @@ Edge有着我刚需的功能：</p>
             <p><a href="https://meta.appinn.net/t/topic/55611">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 24 Apr 2024 08:32:44 +0000</pubDate>
-<pubDate>Wed, 24 Apr 2024 08:32:44 +0000</pubDate>
 </item>
-
 <item>
 <title>【自建】Neckee：为了缓解自己的肩颈疼痛，我们做了一个小工具</title>
 <link>https://meta.appinn.net/t/topic/55604</link>
