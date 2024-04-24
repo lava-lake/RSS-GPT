@@ -20823,3 +20823,12 @@ Existing_entries: 759
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-24 08:20:11.748322
+------------------------------------------------------
+Started: 2024-04-24 10:17:23.363719
+Existing_entries: 759
+Fetching from https://rsshub.app/sspai/index
+Token length: 2224
+Summarized using GPT-3.5-turbo-1106
+Append: [听我爱听的——基于 Antennapod 的全播客解决方案](https://sspai.com/post/88279)
+append_entries: 1
+Finish: 2024-04-24 10:17:28.135348
