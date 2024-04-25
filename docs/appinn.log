@@ -23232,3 +23232,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-04-25 08:20:06.069234
+------------------------------------------------------
+Started: 2024-04-25 10:15:23.880918
+Existing_entries: 368
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 296
+Summarized using GPT-3.5-turbo-1106
+Append: [TreeSheets基础使用说明，以及数十种高阶玩法教程！](https://meta.appinn.net/t/topic/34715)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-04-25 10:15:30.716241
