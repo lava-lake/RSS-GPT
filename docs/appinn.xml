@@ -4,6 +4,7 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>发现了DwarFS的一个彩蛋功能</title>
 <link>https://meta.appinn.net/t/topic/55703</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> mkdwarfs, 压缩, 文件夹, mp4, 阿里云盘
 
-总结:<br><br>这篇文章介绍了使用DwarFS工具将文件夹压缩成mp4格式，并上传到阿里云盘进行分享的方法。作者指出DwarFS可以将任何文件压缩成一个神奇的压缩包，接收者只需要使用命令"dwarfs file.mp4 P:"即可挂载，无需改变文件后缀。这种方法极大地方便了文件的共享和传输，同时也提醒读者在压缩文件时应注意包含必要的文件，并留意解压的细节。 <div>
+总结:<br /><br />这篇文章介绍了使用DwarFS工具将文件夹压缩成mp4格式，并上传到阿里云盘进行分享的方法。作者指出DwarFS可以将任何文件压缩成一个神奇的压缩包，接收者只需要使用命令"dwarfs file.mp4 P:"即可挂载，无需改变文件后缀。这种方法极大地方便了文件的共享和传输，同时也提醒读者在压缩文件时应注意包含必要的文件，并留意解压的细节。 <div>
 <p>用DwarFS把文件夹压成mp4格式</p>
 <pre><code class="lang-auto">mkdwarfs -i path -o file.mp4
 </code></pre>
@@ -28,9 +29,7 @@
             <p><a href="https://meta.appinn.net/t/topic/55703">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 26 Apr 2024 10:44:50 +0000</pubDate>
-<pubDate>Fri, 26 Apr 2024 10:44:50 +0000</pubDate>
 </item>
-
 <item>
 <title>TreeSheets基础使用说明，以及数十种高阶玩法教程！</title>
 <link>https://meta.appinn.net/t/topic/34715</link>
