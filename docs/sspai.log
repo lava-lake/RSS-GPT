@@ -20985,3 +20985,12 @@ Existing_entries: 767
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-26 06:21:17.327624
+------------------------------------------------------
+Started: 2024-04-26 08:18:47.482445
+Existing_entries: 767
+Fetching from https://rsshub.app/sspai/index
+Token length: 6499
+Summarized using GPT-3.5-turbo-1106
+Append: [什么是笔记的理想形态？个人笔记系统折腾手记](https://sspai.com/post/87490)
+append_entries: 1
+Finish: 2024-04-26 08:18:53.696616
