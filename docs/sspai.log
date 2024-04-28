@@ -21135,3 +21135,12 @@ Existing_entries: 771
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-28 04:17:14.129797
+------------------------------------------------------
+Started: 2024-04-28 06:19:56.434715
+Existing_entries: 771
+Fetching from https://rsshub.app/sspai/index
+Token length: 4424
+Summarized using GPT-3.5-turbo-1106
+Append: [Home Assistant 个性化设置之路：从可以实时动态显示的仪表盘开始](https://sspai.com/post/88325)
+append_entries: 1
+Finish: 2024-04-28 06:19:59.772162
