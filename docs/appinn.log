@@ -23582,3 +23582,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-04-28 22:13:46.954370
+------------------------------------------------------
+Started: 2024-04-29 01:07:24.578233
+Existing_entries: 370
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Token length: 596
+Summarized using GPT-3.5-turbo-1106
+Append: [开源免费的全平台服务器监控及SSH客户端](https://meta.appinn.net/t/topic/55805)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-04-29 01:07:31.090530
