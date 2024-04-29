@@ -4,6 +4,7 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>开源免费的全平台服务器监控及SSH客户端</title>
 <link>https://meta.appinn.net/t/topic/55805</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Flutter, 服务器工具箱, 状态图表, SSH终端, Docker
 
-ServerBox是一个使用Flutter开发的服务器工具箱应用，提供服务器状态图表和管理工具，包括SSH终端、SFTP、Docker & 包 & 进程管理器、代码编辑器等功能。该应用特殊支持生物认证、推送和桌面小部件，同时也有watchOS App和跟随系统颜色的特性。支持多国语言，包括英语、简体中文、西班牙语、俄语、葡萄牙语和日语。总的来说，ServerBox是一个功能丰富的服务器管理工具，适用于多种操作系统平台。<br><br>总结: ServerBox是一个功能丰富的服务器管理工具，使用Flutter开发，提供状态图表、SSH终端等多种工具，支持多国语言并可在多种操作系统平台上运行。 <div>
+ServerBox是一个使用Flutter开发的服务器工具箱应用，提供服务器状态图表和管理工具，包括SSH终端、SFTP、Docker & 包 & 进程管理器、代码编辑器等功能。该应用特殊支持生物认证、推送和桌面小部件，同时也有watchOS App和跟随系统颜色的特性。支持多国语言，包括英语、简体中文、西班牙语、俄语、葡萄牙语和日语。总的来说，ServerBox是一个功能丰富的服务器管理工具，适用于多种操作系统平台。<br /><br />总结: ServerBox是一个功能丰富的服务器管理工具，使用Flutter开发，提供状态图表、SSH终端等多种工具，支持多国语言并可在多种操作系统平台上运行。 <div>
 <h2><a class="anchor" href="https://meta.appinn.net#h-1" name="h-1"></a>软件名称</h2>
 <p>ServerBox - server status &amp; toolbox app using Flutter</p>
 <h2><a class="anchor" href="https://meta.appinn.net#h-2" name="h-2"></a>应用平台</h2>
@@ -46,9 +47,7 @@ ServerBox是一个使用Flutter开发的服务器工具箱应用，提供服务�
             <p><a href="https://meta.appinn.net/t/topic/55805">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 29 Apr 2024 01:01:35 +0000</pubDate>
-<pubDate>Mon, 29 Apr 2024 01:01:35 +0000</pubDate>
 </item>
-
 <item>
 <title>发现了DwarFS的一个彩蛋功能</title>
 <link>https://meta.appinn.net/t/topic/55703</link>
