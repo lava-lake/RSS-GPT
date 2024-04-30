@@ -23716,3 +23716,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-04-30 06:20:52.474635
+------------------------------------------------------
+Started: 2024-04-30 08:19:47.859105
+Existing_entries: 372
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 481
+Summarized using GPT-3.5-turbo-1106
+Append: [【自荐】简单易用的书签管理器 - Ease Bookmarks](https://meta.appinn.net/t/topic/29473)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-04-30 08:19:53.991916
