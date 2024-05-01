@@ -23858,3 +23858,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-05-01 16:18:51.239731
+------------------------------------------------------
+Started: 2024-05-01 18:19:43.244838
+Existing_entries: 374
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 99
+Summarized using GPT-3.5-turbo-1106
+Append: [有没有在singlefile保存前全部展开知乎所有回答和所有评论的脚本？](https://meta.appinn.net/t/topic/55912)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-05-01 18:19:50.068187
