@@ -24281,3 +24281,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-05-05 22:15:14.396603
+------------------------------------------------------
+Started: 2024-05-06 01:08:10.009570
+Existing_entries: 379
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Token length: 109
+Summarized using GPT-3.5-turbo-1106
+Append: [求一个支持 GPT3.5 的翻译输入法](https://meta.appinn.net/t/topic/56030)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-05-06 01:08:16.073017
