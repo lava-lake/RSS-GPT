@@ -4,6 +4,7 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>Chromium 内核浏览器通过链接定位页面文本且高亮的小技巧</title>
 <link>https://meta.appinn.net/t/topic/56058</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> 链接定位, 页面文本, 高亮, Chromium, 小技巧
 
-总结:<br><br>本文介绍了使用Chromium内核浏览器的小技巧，通过在链接尾部添加#:~:text=文本来定位页面文本并高亮显示。可以通过选中内容后右键菜单中的复制指向来实现相同的效果。另外，还介绍了完整的语法#:~:text=[prefix-,]start[,end][,-suffix]以及在存在重复文本时如何指定范围匹配。需要注意的是，如果页面内容是动态加载的，则无法使用这种方式进行定位。另外，文章提到了Safari浏览器也支持这一功能。 <div>
+总结:<br /><br />本文介绍了使用Chromium内核浏览器的小技巧，通过在链接尾部添加#:~:text=文本来定位页面文本并高亮显示。可以通过选中内容后右键菜单中的复制指向来实现相同的效果。另外，还介绍了完整的语法#:~:text=[prefix-,]start[,end][,-suffix]以及在存在重复文本时如何指定范围匹配。需要注意的是，如果页面内容是动态加载的，则无法使用这种方式进行定位。另外，文章提到了Safari浏览器也支持这一功能。 <div>
 <p>Chromium 内核浏览器通过链接定位页面文本且高亮的小技巧</p>
 <p>找资料时偶然发现的</p>
 <p>在链接尾部追加<code>#:~:text=文本</code>，比如：<code>https://www.appinn.com/#:~:text=最近 30 天的热门内容</code></p>
@@ -50,9 +51,7 @@
             <p><a href="https://meta.appinn.net/t/topic/56058">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 06 May 2024 08:38:16 +0000</pubDate>
-<pubDate>Mon, 06 May 2024 08:38:16 +0000</pubDate>
 </item>
-
 <item>
 <title>求一个支持 GPT3.5 的翻译输入法</title>
 <link>https://meta.appinn.net/t/topic/56030</link>
