@@ -24996,3 +24996,17 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-05-13 02:30:03.605936
+------------------------------------------------------
+Started: 2024-05-13 04:19:19.980094
+Existing_entries: 388
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Token length: 1076
+Summarized using GPT-3.5-turbo-1106
+Append: [俺正在 mac 上打王者：开源项目 Scrcpy Mask 像模拟器一样用鼠标键盘控制 Android 设备，基于 Rust & Tarui 开发的跨平台客户端](https://meta.appinn.net/t/topic/56349)
+Token length: 320
+Summarized using GPT-3.5-turbo-1106
+Append: [求一款自动循环的时间管理应用](https://meta.appinn.net/t/topic/56350)
+append_entries: 2
+Finish: 2024-05-13 04:19:31.910109
