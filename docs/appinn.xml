@@ -4,12 +4,13 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>【开发者自荐】Subtitle Renamer —— 支持简繁识别的多平台字幕重命名工具</title>
 <link>https://meta.appinn.net/t/topic/56465</link>
 <guid>https://meta.appinn.net/t/topic/56465</guid>
 <content:encoded><![CDATA[
-<div> 跨平台, 动画字幕, 重命名工具, 简繁识别, 自定义后缀<br>Subtile Renamer是一款基于Python开发的跨平台动画字幕重命名软件，支持Windows，macOS和Linux系统。用户可以通过该软件自动识别字幕语言并为其增加语言后缀，同时还可以选择将字幕转换至UTF-8/UTF-8-SIG编码。此外，软件还提供了删除不需要的字幕以及移动字幕至视频文件夹的功能。该软件操作简单易用，只需拖入待更名的视频与字幕文件，选择字幕语言并配置重命名时的可选项，即可完成重命名操作。如果用户需要更多功能支持，可以在Github的Issues中提出，并且在遇到程序错误时也可以在Issues中进行反馈。Subtile Renamer为用户提供了一个方便快捷的字幕重命名工具，满足了用户在字幕处理方面的多种需求。<br>总结: Subtile Renamer是一个跨平台的字幕重命名工具，支持简繁识别、自定义后缀、编码转换等功能，操作简单方便。 <div>
+<div> 跨平台, 动画字幕, 重命名工具, 简繁识别, 自定义后缀<br />Subtile Renamer是一款基于Python开发的跨平台动画字幕重命名软件，支持Windows，macOS和Linux系统。用户可以通过该软件自动识别字幕语言并为其增加语言后缀，同时还可以选择将字幕转换至UTF-8/UTF-8-SIG编码。此外，软件还提供了删除不需要的字幕以及移动字幕至视频文件夹的功能。该软件操作简单易用，只需拖入待更名的视频与字幕文件，选择字幕语言并配置重命名时的可选项，即可完成重命名操作。如果用户需要更多功能支持，可以在Github的Issues中提出，并且在遇到程序错误时也可以在Issues中进行反馈。Subtile Renamer为用户提供了一个方便快捷的字幕重命名工具，满足了用户在字幕处理方面的多种需求。<br />总结: Subtile Renamer是一个跨平台的字幕重命名工具，支持简繁识别、自定义后缀、编码转换等功能，操作简单方便。 <div>
 <h2><a class="anchor" href="https://meta.appinn.net#h-1" name="h-1"></a>软件名称</h2>
 <p>Subtitle Renamer</p>
 <h2><a class="anchor" href="https://meta.appinn.net#h-2" name="h-2"></a>应用平台</h2>
@@ -76,9 +77,7 @@
             <p><a href="https://meta.appinn.net/t/topic/56465">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 15 May 2024 09:39:00 +0000</pubDate>
-<pubDate>Wed, 15 May 2024 09:39:00 +0000</pubDate>
 </item>
-
 <item>
 <title>第三方的chrome插件库有哪些？</title>
 <link>https://meta.appinn.net/t/topic/56427</link>
