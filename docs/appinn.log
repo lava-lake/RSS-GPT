@@ -25442,3 +25442,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-05-17 10:16:22.905106
+------------------------------------------------------
+Started: 2024-05-17 12:28:32.539906
+Existing_entries: 398
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 35
+Summarized using GPT-3.5-turbo-1106
+Append: [当输入框移出窗口界面时如何自动失去焦点](https://meta.appinn.net/t/topic/56564)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-05-17 12:28:39.266110
