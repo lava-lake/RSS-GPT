@@ -4,16 +4,17 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>【自荐】【学习通】📝学习通作业与考试列表：免受错过作业与考试困扰</title>
 <link>https://meta.appinn.net/t/topic/56621</link>
 <guid>https://meta.appinn.net/t/topic/56621</guid>
 <content:encoded><![CDATA[
 <div> 学习通, 学习, 脚本, 作业, 考试
-<br>脚本作者因为学习通电脑版查看作业和考试任务繁琐，开发了油猴脚本“学习通任务一览 Chaoxing Assignment”，能在学习通首页一键查看全部的作业和考试任务。
-<br>脚本的功能包括操作简单、快速查看作业和考试列表、提升用户体验，填补原版学习通的空白，为学术生活带来便利和效率。
-<br>安装脚本后，在学习通首页会出现按钮“全部作业”和“全部考试”，点击即可查看所有作业和考试，并能前往对应的任务详情页面。
-<br>该项目支持旧版学习通，详细信息可以在项目主页查看。脚本作者欢迎使用，并希望得到改进和建议。 <div>
+<br />脚本作者因为学习通电脑版查看作业和考试任务繁琐，开发了油猴脚本“学习通任务一览 Chaoxing Assignment”，能在学习通首页一键查看全部的作业和考试任务。
+<br />脚本的功能包括操作简单、快速查看作业和考试列表、提升用户体验，填补原版学习通的空白，为学术生活带来便利和效率。
+<br />安装脚本后，在学习通首页会出现按钮“全部作业”和“全部考试”，点击即可查看所有作业和考试，并能前往对应的任务详情页面。
+<br />该项目支持旧版学习通，详细信息可以在项目主页查看。脚本作者欢迎使用，并希望得到改进和建议。 <div>
 <h1><a class="anchor" href="https://meta.appinn.net#h-1" name="h-1"></a>起因</h1>
 <p>每天在学校打开学习通，我都苦于学习通的作业和考试在电脑版没有一个列表，总是要拿起手机查看作业，然后再从电脑上点进课程，进入作业/考试页面。</p>
 <p>步骤相当繁琐，也浪费时间。</p>
@@ -46,9 +47,7 @@
             <p><a href="https://meta.appinn.net/t/topic/56621">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 18 May 2024 12:17:08 +0000</pubDate>
-<pubDate>Sat, 18 May 2024 12:17:08 +0000</pubDate>
 </item>
-
 <item>
 <title>当输入框移出窗口界面时如何自动失去焦点</title>
 <link>https://meta.appinn.net/t/topic/56564</link>
