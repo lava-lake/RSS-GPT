@@ -4,12 +4,13 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>Git 提交记录文件导出命令行工具。</title>
 <link>https://meta.appinn.net/t/topic/56889</link>
 <guid>https://meta.appinn.net/t/topic/56889</guid>
 <content:encoded><![CDATA[
-<div> Git提交记录导出工具, 命令行, 过滤, 导出目录, commit哈希<br>
+<div> Git提交记录导出工具, 命令行, 过滤, 导出目录, commit哈希<br />
 Git-export是一个命令行工具，用于从Git提交记录中导出文件。用户可以通过设置过滤条件来指定要导出哪些提交记录，可以选择性地只导出特定的用户名、邮箱、提交信息等。导出的文件将保存在指定的目录中，并可以选择是否将其打包成zip文件。此工具还提供了详细的日志打印功能，方便用户了解导出过程的详细信息。总之，git-export提供了一种方便快捷的方法来从Git提交记录中提取需要的文件。 <div>
 <h2><a class="anchor" href="https://meta.appinn.net#h-1" name="h-1"></a>软件名称</h2>
 <p>git-export</p>
@@ -41,9 +42,7 @@ Options:
             <p><a href="https://meta.appinn.net/t/topic/56889">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 24 May 2024 08:19:36 +0000</pubDate>
-<pubDate>Fri, 24 May 2024 08:19:36 +0000</pubDate>
 </item>
-
 <item>
 <title>[知周笔记] 升级了沉浸式AI写作功能，限时送终身会员</title>
 <link>https://meta.appinn.net/t/topic/56881</link>
