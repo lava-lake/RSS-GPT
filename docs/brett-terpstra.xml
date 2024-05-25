@@ -4,12 +4,13 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>I can't believe I forgot this Conductor filter</title>
 <link>https://brett.trpstra.net/link/535/16693412/i-cant-believe-i-forgot-this-conductor-filter</link>
 <guid>https://brett.trpstra.net/link/535/16693412/i-cant-believe-i-forgot-this-conductor-filter</guid>
 <content:encoded><![CDATA[
-<div> 插入脚本, JavaScript, 过滤器, 元数据, BrettTerpstra.com<br><br>总结:
+<div> 插入脚本, JavaScript, 过滤器, 元数据, BrettTerpstra.com<br /><br />总结:
 昨天作者在 Conductor 中宣布了一个新功能，即小型内置命令，用于执行简单任务，无需编写整个脚本。作者忘记了一个可能是最有用的功能：插入JavaScript。因此，他添加了 insertScript(path) 过滤器，可以通过完整路径或在特定目录中引用JavaScript文件。此外，还添加了 insertTitle 过滤器，用于从元数据中提取标题，并将其作为H1插入内容开头。这个功能使得配置变得简单，无需编写脚本，即可实现所需的功能。 <div>
 <p>So yesterday I announced a new feature in <a href="https://brettterpstra.com/projects/conductor/">Conductor</a> called <a href="https://brettterpstra.com/2024/05/24/conductor-filters-simplify-basic-operations/">Filters</a>. Little built-in commands for performing simple tasks without having to write whole scripts for them. In the process of writing the feature, I forgot what might be the most useful function of all: injecting JavaScripts.</p>
 
@@ -40,9 +41,7 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16693412.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2024-05-25T08:18:00-05:00</pubDate>
-<pubDate>2024-05-25T08:18:00-05:00</pubDate>
 </item>
-
 <item>
 <title>Conductor filters simplify basic operations</title>
 <link>https://brett.trpstra.net/link/535/16693021/conductor-filters-simplify-basic-operations</link>
