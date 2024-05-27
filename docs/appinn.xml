@@ -4,13 +4,14 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>ToQQMusic: 优雅地将歌单转移到 QQ 音乐</title>
 <link>https://meta.appinn.net/t/topic/56937</link>
 <guid>https://meta.appinn.net/t/topic/56937</guid>
 <content:encoded><![CDATA[
-<div> QQMusic, 平台, 开发者自荐, 歌曲转换, NodeJS <br>
-To QQMusic是一个开发者自荐的开源免费项目，可以将网易云音乐或其他音乐平台的歌单优雅地转换到QQ音乐。它可以保留原始歌单顺序，自由选择每首歌的匹配结果，但即使有完全匹配的结果，也必须手动选择。该项目可以在Windows、Linux和Mac OS上运行，但体积较小。详细内容和使用方法可以在项目的GitHub Repo中找到。 <br> <br>总结: To QQMusic是一个开源免费的项目，可以将网易云音乐的歌单转换到QQ音乐，保留原始歌单顺序并自由选择每首歌的匹配结果。 <div>
+<div> QQMusic, 平台, 开发者自荐, 歌曲转换, NodeJS <br />
+To QQMusic是一个开发者自荐的开源免费项目，可以将网易云音乐或其他音乐平台的歌单优雅地转换到QQ音乐。它可以保留原始歌单顺序，自由选择每首歌的匹配结果，但即使有完全匹配的结果，也必须手动选择。该项目可以在Windows、Linux和Mac OS上运行，但体积较小。详细内容和使用方法可以在项目的GitHub Repo中找到。 <br /> <br />总结: To QQMusic是一个开源免费的项目，可以将网易云音乐的歌单转换到QQ音乐，保留原始歌单顺序并自由选择每首歌的匹配结果。 <div>
 <h2><a class="anchor" href="https://meta.appinn.net#h-1" name="h-1"></a>名称</h2>
 <p>To QQMusic</p>
 <h2><a class="anchor" href="https://meta.appinn.net#h-2" name="h-2"></a>平台</h2>
@@ -84,9 +85,7 @@ To QQMusic是一个开发者自荐的开源免费项目，可以将网易云音�
             <p><a href="https://meta.appinn.net/t/topic/56937">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Sun, 26 May 2024 08:14:21 +0000</pubDate>
-<pubDate>Sun, 26 May 2024 08:14:21 +0000</pubDate>
 </item>
-
 <item>
 <title>【自荐】GIF动图助手: 免费无广告的GIF制作和编辑工具</title>
 <link>https://meta.appinn.net/t/topic/22735</link>
