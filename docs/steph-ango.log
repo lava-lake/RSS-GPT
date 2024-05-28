@@ -19066,3 +19066,10 @@ Fetching from https://stephanango.com/feed.xml
 Feed error: 301
 append_entries: 0
 Finish: 2024-05-28 08:21:31.173639
+------------------------------------------------------
+Started: 2024-05-28 10:17:10.057016
+Existing_entries: 35
+Fetching from https://stephanango.com/feed.xml
+Feed error: 301
+append_entries: 0
+Finish: 2024-05-28 10:17:10.318248
