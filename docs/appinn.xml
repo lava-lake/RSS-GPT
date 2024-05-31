@@ -4,14 +4,15 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>全平台通用换源工具 chsrc</title>
 <link>https://meta.appinn.net/t/topic/57121</link>
 <guid>https://meta.appinn.net/t/topic/57121</guid>
 <content:encoded><![CDATA[
-<div> chsrc, 二进制文件, 换源工具, 镜像站, 自动测速, 兼容多平台<br>
-<br>
-总结:<br>
+<div> chsrc, 二进制文件, 换源工具, 镜像站, 自动测速, 兼容多平台<br />
+<br />
+总结:<br />
 这是一个名为chsrc的二进制文件，是一个全平台命令行换源工具，支持多个发行版和软件包管理工具，并且可以自动测速多个镜像站点，选择使用最快的镜像站。新版本新增了华为云镜像站和华中科大镜像站，使用户可以更快地获取软件包。 <div>
 <p>逛v2ex发现的</p>
 <p>一个二进制文件，<code>chsrc</code>，支持 Windows,Linux,macOS</p>
@@ -130,9 +131,7 @@ conda   anaconda
             <p><a href="https://meta.appinn.net/t/topic/57121">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 31 May 2024 02:01:57 +0000</pubDate>
-<pubDate>Fri, 31 May 2024 02:01:57 +0000</pubDate>
 </item>
-
 <item>
 <title>求一款跨平台的任务计划管理应用，可以指定时间提醒</title>
 <link>https://meta.appinn.net/t/topic/57047</link>
