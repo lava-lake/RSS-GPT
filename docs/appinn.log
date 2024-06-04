@@ -27192,3 +27192,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-06-04 02:31:15.961094
+------------------------------------------------------
+Started: 2024-06-04 04:18:49.137771
+Existing_entries: 416
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Token length: 26
+Summarized using GPT-3.5-turbo-1106
+Append: [苹果手机连接第三方蓝牙耳机后“手机音量”会被自动调整的折中解决办法](https://meta.appinn.net/t/topic/57286)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-06-04 04:18:54.179826
