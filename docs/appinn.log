@@ -27211,3 +27211,17 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-06-04 06:22:07.741579
+------------------------------------------------------
+Started: 2024-06-04 08:20:01.777210
+Existing_entries: 417
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 382
+Summarized using GPT-3.5-turbo-1106
+Append: [【开发者自荐】CoolTool - 在线应用工具箱](https://meta.appinn.net/t/topic/57294)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Token length: 811
+Summarized using GPT-3.5-turbo-1106
+Append: [【开发者自荐】维克日记 - 设计优雅、开箱即用的跨平台本地日记软件](https://meta.appinn.net/t/topic/57252)
+append_entries: 2
+Finish: 2024-06-04 08:20:10.376595
