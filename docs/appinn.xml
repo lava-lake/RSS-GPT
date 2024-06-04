@@ -4,13 +4,14 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>【开发者自荐】CoolTool - 在线应用工具箱</title>
 <link>https://meta.appinn.net/t/topic/57294</link>
 <guid>https://meta.appinn.net/t/topic/57294</guid>
 <content:encoded><![CDATA[
-<div> 在线工具箱, Web平台, AI应用, 多媒体处理, 即用即走<br>
-总结:<br>
+<div> 在线工具箱, Web平台, AI应用, 多媒体处理, 即用即走<br />
+总结:<br />
 CoolTool是一款面向Web平台的在线工具箱，旨在提供快捷方便的AI应用，涵盖视频、音频、图片和文本处理等多种功能。用户无需注册即可使用，每月还会发布新的应用功能。未来随着WebGPU技术的推进，CoolTool相信Web端的AI使用场景会更加广泛。 <div>
 <h1><a class="anchor" href="https://meta.appinn.net#h-1" name="h-1"></a>软件名</h1>
 <p>CoolTool</p>
@@ -55,15 +56,14 @@ CoolTool的目标是提供一款快捷的Web在线工具箱，涵盖了常见的
             <p><a href="https://meta.appinn.net/t/topic/57294">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 04 Jun 2024 06:30:32 +0000</pubDate>
-<pubDate>Tue, 04 Jun 2024 06:30:32 +0000</pubDate>
 </item>
 <item>
 <title>【开发者自荐】维克日记 - 设计优雅、开箱即用的跨平台本地日记软件</title>
 <link>https://meta.appinn.net/t/topic/57252</link>
 <guid>https://meta.appinn.net/t/topic/57252</guid>
 <content:encoded><![CDATA[
-<div> 跨平台本地日记软件, Markdown语法支持, 夜间模式, 数据私有, 数据统计<br>
-维克日记是一款设计优雅、开箱即用的跨平台本地日记软件。它支持Markdown语法输入和实时预览，拥有极简风格和夜间主题，保护用户的眼睛。用户的数据完全私有，支持离线访问和多种格式文档导出。此外，软件还提供数据统计功能，让用户清晰看到写作的脚步和成长的轨迹。总之，维克日记是一款强大实用的日记软件，能够满足用户的各种记录需求。 <br><br>总结: 跨平台本地日记软件，支持Markdown语法，夜间模式保护眼睛，用户数据私有，提供数据统计功能。 <div>
+<div> 跨平台本地日记软件, Markdown语法支持, 夜间模式, 数据私有, 数据统计<br />
+维克日记是一款设计优雅、开箱即用的跨平台本地日记软件。它支持Markdown语法输入和实时预览，拥有极简风格和夜间主题，保护用户的眼睛。用户的数据完全私有，支持离线访问和多种格式文档导出。此外，软件还提供数据统计功能，让用户清晰看到写作的脚步和成长的轨迹。总之，维克日记是一款强大实用的日记软件，能够满足用户的各种记录需求。 <br /><br />总结: 跨平台本地日记软件，支持Markdown语法，夜间模式保护眼睛，用户数据私有，提供数据统计功能。 <div>
 <h1><a class="anchor" href="https://meta.appinn.net#h-1" name="h-1"></a>软件名称</h1>
 <p>维克日记</p>
 <h1><a class="anchor" href="https://meta.appinn.net#h-2" name="h-2"></a>系统要求</h1>
@@ -137,9 +137,7 @@ markdown支持用Markdown书写，实时预览，让每一个想法都精准呈�
             <p><a href="https://meta.appinn.net/t/topic/57252">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 03 Jun 2024 09:21:19 +0000</pubDate>
-<pubDate>Mon, 03 Jun 2024 09:21:19 +0000</pubDate>
 </item>
-
 <item>
 <title>苹果手机连接第三方蓝牙耳机后“手机音量”会被自动调整的折中解决办法</title>
 <link>https://meta.appinn.net/t/topic/57286</link>
