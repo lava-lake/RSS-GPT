@@ -27356,3 +27356,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-06-05 16:20:36.009265
+------------------------------------------------------
+Started: 2024-06-05 18:21:01.135434
+Existing_entries: 420
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Token length: 531
+Summarized using GPT-3.5-turbo-1106
+Append: [FunnelMaster - 在 iOS、macOS 和 visionOS 上使用高级漏斗图增强数据可视化功能](https://meta.appinn.net/t/topic/57355)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-06-05 18:21:08.499636
