@@ -4,13 +4,14 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>A Markdown Lorem Ipsum API</title>
 <link>https://brett.trpstra.net/link/535/16714717/a-markdown-lorem-ipsum-api</link>
 <guid>https://brett.trpstra.net/link/535/16714717/a-markdown-lorem-ipsum-api</guid>
 <content:encoded><![CDATA[
 <div> API, Markdown, TextExpander, generator, BrettTerpstra.com
-<br><br>
+<br /><br />
 总结:
 BrettTerpstra.com的作者为了替代TextExpander，使用了一个名为Text Blaze的新应用程序。然而，Text Blaze并不支持脚本片段，因此作者创建了一个API来生成Markdown Lorem Ipsum。这个API使用loripsum.net和Pandoc来生成随机文本，并将其转换为基本的Markdown格式。可以通过命令行或Text Blaze来使用这个API。 <div>
 <p>I built a new little API for you. It generates Markdown Lorem Ipsum. First, a little background.</p>
@@ -50,9 +51,7 @@ BrettTerpstra.com的作者为了替代TextExpander，使用了一个名为Text B
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16714717.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2024-06-14T12:54:00-05:00</pubDate>
-<pubDate>2024-06-14T12:54:00-05:00</pubDate>
 </item>
-
 <item>
 <title>Web Excursions for June 12, 2024</title>
 <link>https://brett.trpstra.net/link/535/16712243/web-excursions-for-june-12-2024</link>
