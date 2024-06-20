@@ -28775,3 +28775,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-06-19 22:15:21.500804
+------------------------------------------------------
+Started: 2024-06-20 01:10:05.485999
+Existing_entries: 437
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 201
+Summarized using GPT-3.5-turbo-1106
+Append: [【油猴脚本】中小学教材电子版 jc.pep.com.cn 本地下载](https://meta.appinn.net/t/topic/57874)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-06-20 01:10:11.804768
