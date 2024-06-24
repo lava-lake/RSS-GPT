@@ -29202,3 +29202,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-06-24 08:20:46.838248
+------------------------------------------------------
+Started: 2024-06-24 10:18:21.485300
+Existing_entries: 438
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 388
+Summarized using GPT-3.5-turbo-1106
+Append: [[求助]如何设置无图浏览某个特定网页，但是同域名下其他网页正常有图？](https://meta.appinn.net/t/topic/58029)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-06-24 10:18:27.262490
