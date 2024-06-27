@@ -29475,3 +29475,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-06-27 02:32:14.001659
+------------------------------------------------------
+Started: 2024-06-27 04:21:53.910057
+Existing_entries: 441
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 82
+Summarized using GPT-3.5-turbo-1106
+Append: [还有没有类似于 二管家 的扩展呢？](https://meta.appinn.net/t/topic/58114)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-06-27 04:21:59.140129
