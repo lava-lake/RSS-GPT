@@ -4,12 +4,13 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>Obsidian Callouts in Marked</title>
 <link>https://brett.trpstra.net/link/535/16727652/obsidian-callouts-in-marked</link>
 <guid>https://brett.trpstra.net/link/535/16727652/obsidian-callouts-in-marked</guid>
 <content:encoded><![CDATA[
-<div> Conductor, Obsidian, Marked, Callouts, Script<br>
+<div> Conductor, Obsidian, Marked, Callouts, Script<br />
 Conductor是一个脚本，支持Obsidian的呼唤特性，可以在Marked中使用。该脚本能处理Obsidian的呼唤特性，使其在Marked中展现出相同的效果。脚本需要搭配样式表一起使用。你可以在Brett Terpstra的网站找到这些脚本和样式表。总结：Conductor是一个支持Obsidian呼唤特性的脚本，能在Marked中展现相同的效果，需搭配样式表使用。 <div>
 <noscript class="loading-lazy">
                 <source media="(max-width: 640px)" />
@@ -100,9 +101,7 @@ Conductor是一个脚本，支持Obsidian的呼唤特性，可以在Marked中使
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16727652.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2024-06-27T19:17:00-05:00</pubDate>
-<pubDate>2024-06-27T19:17:00-05:00</pubDate>
 </item>
-
 <item>
 <title>Markdown Lipsum v2</title>
 <link>https://brett.trpstra.net/link/535/16717305/markdown-lipsum-v2</link>
