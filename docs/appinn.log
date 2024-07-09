@@ -30709,3 +30709,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-07-09 12:32:58.661427
+------------------------------------------------------
+Started: 2024-07-09 14:15:04.545709
+Existing_entries: 454
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Token length: 27
+Summarized using GPT-3.5-turbo-1106
+Append: [Macos 的 tag 怎么没了](https://meta.appinn.net/t/topic/58551)
+append_entries: 1
+Finish: 2024-07-09 14:15:08.782542
