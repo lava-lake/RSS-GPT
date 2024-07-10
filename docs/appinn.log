@@ -30831,3 +30831,14 @@ Append: [群晖 Active Backup for Business 套件新增 macOS 整机备份功能
 Append: [【实用工具】用快捷键搜索“剪切板内容”（支持win和macos）](https://meta.appinn.net/t/topic/38852)
 append_entries: 19
 Finish: 2024-07-10 08:22:36.140859
+------------------------------------------------------
+Started: 2024-07-10 10:18:44.289134
+Existing_entries: 474
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Token length: 191
+Summarized using GPT-3.5-turbo-1106
+Append: [【炸裂新闻】Affinity将免费延长试用期至六个月（实验性）](https://meta.appinn.net/t/topic/58577)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-07-10 10:18:50.736105
