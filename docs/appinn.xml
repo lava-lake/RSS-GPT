@@ -4,13 +4,14 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>uBlock Origin的临时移除元素模式有没连续操作的快捷键？</title>
 <link>https://meta.appinn.net/t/topic/58689</link>
 <guid>https://meta.appinn.net/t/topic/58689</guid>
 <content:encoded><![CDATA[
 <div> 知乎，F12，SingleFile，跳转页面，uBlock Origin
-<br><br>
+<br /><br />
 起因是用户想要收藏知乎的帖子，但在使用F12和SingleFile保存时总是遇到知乎自动跳转页面的问题。用户考虑使用uBlock Origin扩展的临时移除元素模式来解决，想知道这个扩展是否支持连续点击来移除元素。用户希望找到方法禁止知乎页面跳转，并分析可能起作用的脚本。 <div>
 <p>起因是这个问题：</p><aside class="quote">
   <div class="title">
@@ -34,9 +35,7 @@
             <p><a href="https://meta.appinn.net/t/topic/58689">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 13 Jul 2024 08:57:09 +0000</pubDate>
-<pubDate>Sat, 13 Jul 2024 08:57:09 +0000</pubDate>
 </item>
-
 <item>
 <title>探索一种长期可靠的笔记方案</title>
 <link>https://meta.appinn.net/t/topic/58684</link>
