@@ -31238,3 +31238,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-07-14 10:18:47.916789
+------------------------------------------------------
+Started: 2024-07-14 12:39:39.122624
+Existing_entries: 479
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 264
+Summarized using GPT-3.5-turbo-1106
+Append: [把 Chrome 扩展“Kimi 阅读助手”移植到了 Firefox 上](https://meta.appinn.net/t/topic/58718)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-07-14 12:39:43.659114
