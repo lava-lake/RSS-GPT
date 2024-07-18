@@ -4,6 +4,7 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>Marked 2.6.39 with Streaming Preview fixes</title>
 <link>https://brett.trpstra.net/link/535/16747444/marked-2-dot-6-39-with-streaming-preview-fixes</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Streaming Preview, Custom Processors, Preferences Window, Bugfixes, Conductor
 
-Streaming Preview问题得到修复，现在可以在The Archive和Drafts等应用中使用流媒体功能。修复了偏好设置窗口的外观，并计划在不久的将来进行全面改进。新增了自定义处理器相关功能，可以根据需求返回不同的处理器字符串，也可以使用元数据进行自定义处理器设置。更新已发布，支持者可以通过购买应用或赞助来支持开发。同时，确保使用最新版本的Conductor，以获取重要的bug修复。总结: <br><br> Streaming Preview问题已修复，修复了软件外观，新增自定义处理器功能，更新已发布，支持者可以通过购买或赞助来支持开发。 <div>
+Streaming Preview问题得到修复，现在可以在The Archive和Drafts等应用中使用流媒体功能。修复了偏好设置窗口的外观，并计划在不久的将来进行全面改进。新增了自定义处理器相关功能，可以根据需求返回不同的处理器字符串，也可以使用元数据进行自定义处理器设置。更新已发布，支持者可以通过购买应用或赞助来支持开发。同时，确保使用最新版本的Conductor，以获取重要的bug修复。总结: <br /><br /> Streaming Preview问题已修复，修复了软件外观，新增自定义处理器功能，更新已发布，支持者可以通过购买或赞助来支持开发。 <div>
 <noscript class="loading-lazy">
                 <source media="(max-width: 640px)" />
                 <source type="image/avif" />
@@ -64,9 +65,7 @@ Streaming Preview问题得到修复，现在可以在The Archive和Drafts等应�
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16747444.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2024-07-18T11:45:00-05:00</pubDate>
-<pubDate>2024-07-18T11:45:00-05:00</pubDate>
 </item>
-
 <item>
 <title>Obsidian Callouts in Marked</title>
 <link>https://brett.trpstra.net/link/535/16727652/obsidian-callouts-in-marked</link>
