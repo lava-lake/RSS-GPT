@@ -31786,3 +31786,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-07-20 01:12:25.304691
+------------------------------------------------------
+Started: 2024-07-20 02:31:51.757872
+Existing_entries: 483
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 73
+Summarized using GPT-3.5-turbo-1106
+Append: [有什么插件能让鼠标滑过或者悬停在浏览器书签栏就自动展开子书签吗](https://meta.appinn.net/t/topic/59001)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-07-20 02:31:58.037687
