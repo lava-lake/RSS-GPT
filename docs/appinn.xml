@@ -4,14 +4,15 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>展示一下搜索酱的 AI 功能【Chrome/Firefox】</title>
 <link>https://meta.appinn.net/t/topic/59080</link>
 <guid>https://meta.appinn.net/t/topic/59080</guid>
 <content:encoded><![CDATA[
-<div> gemini api, openai api, 开放接口, 请求次数, 自定义规则<br>
-<br>
-总结: 这篇文章主要介绍了基于gemini api和openai api的网页总结和划词翻译。 gemini api目前提供免费额度，每分钟可请求3.2W TPM，每天1500次，可以满足个人使用。而openai api是通过Linuxdo上的共享资源获得的，注册后可获得5美元的余额。通过基于showTips自定义规则，可以修改api接口、提示和返回样式。文章最后提到了Firefox AI扩展的匮乏，因此分享了这些资源。<br> <div>
+<div> gemini api, openai api, 开放接口, 请求次数, 自定义规则<br />
+<br />
+总结: 这篇文章主要介绍了基于gemini api和openai api的网页总结和划词翻译。 gemini api目前提供免费额度，每分钟可请求3.2W TPM，每天1500次，可以满足个人使用。而openai api是通过Linuxdo上的共享资源获得的，注册后可获得5美元的余额。通过基于showTips自定义规则，可以修改api接口、提示和返回样式。文章最后提到了Firefox AI扩展的匮乏，因此分享了这些资源。<br /> <div>
 <ul>
 <li>
 <p>基于 openai api 的网页总结<br />
@@ -30,7 +31,6 @@ openai api 我是白嫖了 linuxdo 上一个大善人分享的免费资源，这
             <p><a href="https://meta.appinn.net/t/topic/59080">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 22 Jul 2024 04:53:43 +0000</pubDate>
-<pubDate>Mon, 22 Jul 2024 04:53:43 +0000</pubDate>
 </item>
 <item>
 <title>【iOS】提醒英雄，把重要事项牢牢钉在你的锁屏界面，彻底解决你的遗忘问题!</title>
@@ -38,7 +38,7 @@ openai api 我是白嫖了 linuxdo 上一个大善人分享的免费资源，这
 <guid>https://meta.appinn.net/t/topic/59083</guid>
 <content:encoded><![CDATA[
 <div> 提醒英雄, 交互简洁, 定期提醒, 会员功能, 免费赠送码
-<br><br>总结:
+<br /><br />总结:
 提醒英雄是一个高颜值、交互简洁的提醒和待办 App，旨在解决生活琐事经常被忘记的问题。与其他付费提醒 App 不同，提醒英雄的即时提醒功能无需设置提醒时间，重复提醒和定期提醒功能也非常实用。此外，还有会员功能包括 iCloud 数据同步、任务同步到系统日历等，国内年度会员仅需18¥。欢迎加入产品交流群，也可留下邮箱领取免费兑换码。提醒英雄致力于为用户提供更便捷的生活提醒服务。 <div>
 <p><img alt="img" height="388" src="https://h1.appinn.net/file/2f8cf387cbb38d4f4897c.png" width="690" /></p>
 <p>提醒英雄是一个高颜值，交互简洁的提醒和待办 App</p>
@@ -96,9 +96,7 @@ openai api 我是白嫖了 linuxdo 上一个大善人分享的免费资源，这
             <p><a href="https://meta.appinn.net/t/topic/59083">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 22 Jul 2024 05:14:54 +0000</pubDate>
-<pubDate>Mon, 22 Jul 2024 05:14:54 +0000</pubDate>
 </item>
-
 <item>
 <title>有什么插件能让鼠标滑过或者悬停在浏览器书签栏就自动展开子书签吗</title>
 <link>https://meta.appinn.net/t/topic/59001</link>
