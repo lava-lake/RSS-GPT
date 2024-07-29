@@ -4,6 +4,7 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>一键提取youtube中文transcript为文本的方法</title>
 <link>https://meta.appinn.net/t/topic/59317</link>
@@ -22,7 +23,6 @@
             <p><a href="https://meta.appinn.net/t/topic/59317">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 29 Jul 2024 05:12:23 +0000</pubDate>
-<pubDate>Mon, 29 Jul 2024 05:12:23 +0000</pubDate>
 </item>
 <item>
 <title>零web基础想学写浏览器拓展插件，有没有比较系统的课程指南呢？</title>
@@ -30,14 +30,13 @@
 <guid>https://meta.appinn.net/t/topic/32183</guid>
 <content:encoded><![CDATA[
 <div> 插件, 需要, 符合, 自己, 帖子
-<br><br>总结:
+<br /><br />总结:
 想做一个符合自己需要的插件。在论坛上有19个帖子，13位参与者正在讨论这个话题。这说明这个话题引起了很多人的兴趣。有很多不同的意见和建议，可以作为开发插件的参考。在开发插件的过程中，需要考虑到这些意见和建议，使得插件可以符合更多人的需求。 <div>
 <p>如题。。。<br />
 想做一个符合自己需要的插件。</p>
             <p><small>19 个帖子 - 13 位参与者</small></p>
             <p><a href="https://meta.appinn.net/t/topic/32183">阅读完整话题</a></p>
 ]]></content:encoded>
-<pubDate>Fri, 29 Apr 2022 09:00:46 +0000</pubDate>
 <pubDate>Fri, 29 Apr 2022 09:00:46 +0000</pubDate>
 </item>
 <item>
@@ -46,7 +45,7 @@
 <guid>https://meta.appinn.net/t/topic/59314</guid>
 <content:encoded><![CDATA[
 <div> Tauri, 剪切板应用, 多平台, 开源, 阮一峰老师推荐
-<br><br>总结: 
+<br /><br />总结: 
 这是一个开源的剪切板应用项目，名为EcoPaste，使用Tauri构建，支持多平台，包括Windows和MacOS。它具有常驻后台、自动粘贴、智能管理、图片OCR等多种功能，同时支持数据备份和自动更新。该项目得到了知名开发者阮一峰老师的推荐和认可。开发者感谢社区贡献，并希望用户能够积极参与和分享使用体验。 <div>
 <h2><a class="anchor" href="https://meta.appinn.net#p-217072-h-1" name="p-217072-h-1"></a>开源地址</h2>
 <p>仓库地址：<a href="https://github.com/ayangweb/EcoPaste" rel="noopener nofollow ugc">EcoPaste</a></p>
@@ -100,9 +99,7 @@
             <p><a href="https://meta.appinn.net/t/topic/59314">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 29 Jul 2024 03:43:11 +0000</pubDate>
-<pubDate>Mon, 29 Jul 2024 03:43:11 +0000</pubDate>
 </item>
-
 <item>
 <title>求一个 手机短信强提醒软件</title>
 <link>https://meta.appinn.net/t/topic/59308</link>
