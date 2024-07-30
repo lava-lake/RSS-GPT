@@ -4,6 +4,7 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>【开源自荐】WR.DO - 基于 cloudflare 的多租户 DNS 解析系统</title>
 <link>https://meta.appinn.net/t/topic/59376</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Cloudflare, 多租户, DNS, 开源, 免费
 
-总结:<br><br>这是一个基于Cloudflare的多租户DNS分发系统，它是开源的并且免费提供DNS解析和短链接生成功能。用户可以利用这个系统来管理他们的DNS，并生成短链接。该系统提供了高效的DNS分发功能，适用于多租户环境。同时，由于是免费和开源的，用户可以灵活地定制和扩展这个系统。 <div>
+总结:<br /><br />这是一个基于Cloudflare的多租户DNS分发系统，它是开源的并且免费提供DNS解析和短链接生成功能。用户可以利用这个系统来管理他们的DNS，并生成短链接。该系统提供了高效的DNS分发功能，适用于多租户环境。同时，由于是免费和开源的，用户可以灵活地定制和扩展这个系统。 <div>
 <p>基于 cloudflare 的多租户 DNS 分发系统。开源且免费提供 DNS 解析、短链接生成。<br />
 官网地址：<a href="https://wr.do" rel="noopener nofollow ugc">https://wr.do</a><br />
 开源仓库：<a class="inline-onebox" href="https://github.com/oiov/wr.do" rel="noopener nofollow ugc">GitHub - oiov/wr.do: Set up your DNS and shorten URLs with a few clicks. Build with cloudflare.</a></p>
@@ -19,9 +20,7 @@
             <p><a href="https://meta.appinn.net/t/topic/59376">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 30 Jul 2024 12:07:53 +0000</pubDate>
-<pubDate>Tue, 30 Jul 2024 12:07:53 +0000</pubDate>
 </item>
-
 <item>
 <title>一键提取youtube中文transcript为文本的方法</title>
 <link>https://meta.appinn.net/t/topic/59317</link>
