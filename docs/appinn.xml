@@ -5,11 +5,32 @@
 <link>https://meta.appinn.net/tag/macos</link>
 
 <item>
+<title>求教能否利用AI创建一个私人化的搜索引擎呢？</title>
+<link>https://meta.appinn.net/t/topic/59385</link>
+<guid>https://meta.appinn.net/t/topic/59385</guid>
+<content:encoded><![CDATA[
+<div> SearchGPT, AI, 搜索引擎, 网络资料, 私人化
+
+这篇论坛讨论了利用AI技术创建私人化搜索引擎的想法。作者认为可以利用AI技术进行网络资料的搜索和结果优化，甚至可以调用必应、谷歌、百度等搜索引擎的结果进行优化。对于屏蔽爬虫的网站，例如微信、知乎等，可以自定义添加到搜索选项中，并且可以交给AI私人的账号密码以便搜索。最终目的是根据算法优化搜索结果，过滤垃圾信息。作者认为这样的私人化搜索引擎能够避免在大量信息中自行筛选，提高搜索效率。总结: 论坛讨论了利用AI技术创建私人化搜索引擎的想法，包括对网络资料的搜索和结果优化，对屏蔽爬虫网站的处理，以及根据算法优化搜索结果，过滤垃圾信息。 <div>
+<p>最近在论坛看到SearchGPT和“<a href="https://meta.appinn.net/t/topic/57132/23">知乎已经完全禁止谷歌和必应搜索抓取其内容</a>”，我就突然想到，既然AI这么发达，能否利用它创建一个私人化的搜索引擎。<br />
+要求如下：<br />
+1、正常爬虫搜索网络上的资料，可以让其直接调用必应、谷歌、百度的结果，并根据算法进行优化（我想着，自己创建一个引擎是不是太复杂了）。<br />
+2、对于屏蔽爬虫的网站，如微信、知乎等等，可以自定义添加到搜索选项中去，并且可以 把私人的账号密码交给AI方便其搜索。<br />
+3、就是根据1和2优化搜索结果，过滤垃圾信息。<br />
+4、写到这里感觉上面三点就是利用AI做一个结果筛选的东西，搜索引擎都算不上了。 <img alt=":joy:" class="emoji" height="20" src="https://meta-cdn1.appinn.com/images/emoji/twitter/joy.png?v=12" title=":joy:" width="20" />但是这样可以避免在乱七八糟的消息中去自己筛选。</p>
+            <p><small>6 个帖子 - 3 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/59385">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Wed, 31 Jul 2024 01:16:31 +0000</pubDate>
+<pubDate>Wed, 31 Jul 2024 01:16:31 +0000</pubDate>
+</item>
+
+<item>
 <title>PicInsight - 制作精美的明信片! ｜ 限时免费</title>
 <link>https://meta.appinn.net/t/topic/59384</link>
 <guid>https://meta.appinn.net/t/topic/59384</guid>
 <content:encoded><![CDATA[
-<div> 自定义文字、图标、高分辨率导出、跨设备兼容性、社交媒体、旅行记忆、节日问候、营销材料、创意项目、活动邀请函、相册、商业品牌、个人里程碑、教育材料、筹款活动、产品文档、客户反馈、旅游指南、房地产列表、团队项目、家庭记忆、健康和健身跟踪、活动策划、DIY 项目<br><br>总结: PicInsight是一款可以为照片添加个性化文字、图标和图像的工具，支持多种字体和灵活插入图标，能够高质量导出，并且用户界面友好、跨设备兼容。用户可以用它制作社交媒体帖子、旅行明信片、节日贺卡、营销材料等，适用于各种场景和目的，是一个多功能的个性化设计工具。价格初始定价0.99美元，现在限时免费，下载地址在App Store上可以找到。 <div>
+<div> 自定义文字、图标、高分辨率导出、跨设备兼容性、社交媒体、旅行记忆、节日问候、营销材料、创意项目、活动邀请函、相册、商业品牌、个人里程碑、教育材料、筹款活动、产品文档、客户反馈、旅游指南、房地产列表、团队项目、家庭记忆、健康和健身跟踪、活动策划、DIY 项目<br /><br />总结: PicInsight是一款可以为照片添加个性化文字、图标和图像的工具，支持多种字体和灵活插入图标，能够高质量导出，并且用户界面友好、跨设备兼容。用户可以用它制作社交媒体帖子、旅行明信片、节日贺卡、营销材料等，适用于各种场景和目的，是一个多功能的个性化设计工具。价格初始定价0.99美元，现在限时免费，下载地址在App Store上可以找到。 <div>
 <blockquote>
 <p>PicInsight： 为照片添加自定义文字、图标和图像。用 iPhone, iPad, Mac或VisionPro 制作独一无二的明信片，将记忆变成个性化的纪念品!</p>
 </blockquote>
@@ -158,9 +179,7 @@
             <p><a href="https://meta.appinn.net/t/topic/59384">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 30 Jul 2024 23:31:54 +0000</pubDate>
-<pubDate>Tue, 30 Jul 2024 23:31:54 +0000</pubDate>
 </item>
-
 <item>
 <title>【开源自荐】WR.DO - 基于 cloudflare 的多租户 DNS 解析系统</title>
 <link>https://meta.appinn.net/t/topic/59376</link>
