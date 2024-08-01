@@ -4,13 +4,14 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>Easily save and restore all of your gem executables</title>
 <link>https://brett.trpstra.net/link/535/16759288/easily-save-and-restore-gem-executables</link>
 <guid>https://brett.trpstra.net/link/535/16759288/easily-save-and-restore-gem-executables</guid>
 <content:encoded><![CDATA[
 <div> Homebrew, snapshot, gems, brew-gem, bundler
-<br><br>总结:
+<br /><br />总结:
 这篇文章介绍了使用Homebrew和bundled gems来保存系统安装的快照，并在新系统上重新安装的方法。作者提到了保存所有gems的工具，以及不推荐使用brew-gem来安装Ruby gems的原因。他还介绍了自己开发的能够保存安装了binary的gems快照的工具。最后，作者呼吁读者分享问题和建议，同时表示感谢读者的支持。 <div>
 <p>I&rsquo;ve always liked <a href="https://github.com/Homebrew/homebrew-bundle">Homebrew&rsquo;s bundle command</a>. You can save a snapshot of everything you&rsquo;ve installed with Homebrew, and then reinstall the snapshot on a new system.</p>
 
@@ -31,9 +32,7 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16759288.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2024-08-01T14:17:00-05:00</pubDate>
-<pubDate>2024-08-01T14:17:00-05:00</pubDate>
 </item>
-
 <item>
 <title>Marked 2.6.39 with Streaming Preview fixes</title>
 <link>https://brett.trpstra.net/link/535/16747444/marked-2-dot-6-39-with-streaming-preview-fixes</link>
