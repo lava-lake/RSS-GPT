@@ -4,6 +4,30 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+<item>
+<title>Binbundle: A gem for saving and restoring gem binaries</title>
+<link>https://brett.trpstra.net/link/535/16760430/binbundle-a-gem-for-restoring-gem-binaries</link>
+<guid>https://brett.trpstra.net/link/535/16760430/binbundle-a-gem-for-restoring-gem-binaries</guid>
+<content:encoded><![CDATA[
+<div> gem, binaries, Rubygems, Homebrew, installation
+总结：<br><br>文章介绍了昨天发布的创建“bundle file”的脚本，用于捕捉系统中所有依赖Rubygems安装的可执行文件。由于Homebrew的bundle命令不涵盖这些文件，作者决定将脚本制作成gem包，以方便安装。通过阅读相关文档，用户可以了解安装和使用的细节。该项目与另一个工具结合使用，可以方便地恢复Homebrew漏掉的所有可执行文件。同时，文章也提到了BrettTerpstra.com是由读者支持的，并且版权归Brett Terpstra所有。 <div>
+<p>I published a script yesterday for creating a &ldquo;bundle file&rdquo; of all binaries (executables) on your system that rely on Rubygems to install. These aren&rsquo;t covered by Homebrew&rsquo;s bundle command and I wanted easy system restore via my dotfiles setup.</p>
+
+<p>But&hellip; because it deals specifically with gems, I figured why not make it a gem and make it easy to install?</p>
+
+<p>So I present <a href="https://brettterpstra.com//projects/binbundle/">Binbundle</a>, the same script as yesterday, but elaborated on and in gem form.</p>
+
+<p>See the <a href="https://brettterpstra.com//projects/binbundle">project page</a> for details on installation and usage. This project combined with <a href="https://github.com/anishathalye/dotbot">Dotbot</a> makes for a very easy way to restore all of those binaries that Homebrew misses.</p>
+
+<p>Like or share this post <a class="twitter" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fbrettterpstra.com%2F2024%2F08%2F02%2Fbinbundle-a-gem-for-restoring-gem-binaries%2F&amp;text=Binbundle%3A+A+gem+for+saving+and+restoring+gem+binaries&amp;url=https%3A%2F%2Fbrettterpstra.com%2F2024%2F08%2F02%2Fbinbundle-a-gem-for-restoring-gem-binaries%2F&amp;via=ttscoff" rel="nofollow" target="_blank" title="Tweet this post">Twitter</a>.</p>
+    <hr style="margin: 40px 0;" />
+<p>BrettTerpstra.com is supported by readers like you. <a href="https://brettterpstra.com/support/">Click here if you'd like to help out.</a></p>
+<p class="copyright">All materials &copy;2024 Brett Terpstra</p>
+<p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16760430.gif" width="1" />
+]]></content:encoded>
+<pubDate>2024-08-02T11:06:00-05:00</pubDate>
+<pubDate>2024-08-02T11:06:00-05:00</pubDate>
+</item>
 
 <item>
 <title>Easily save and restore all of your gem executables</title>
