@@ -4,6 +4,7 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>Speed up development with Howzit templates</title>
 <link>https://brett.trpstra.net/link/535/16762490/speed-up-development-with-howzit-templates</link>
@@ -15,7 +16,7 @@
 - Directives
 - Variables
 
-总结：<br><br>
+总结：<br /><br />
 本文介绍了一个名为Howzit的项目，它提供了一种能够通过命令查询任何项目并获取文档的方法。核心是一个称为buildnotes.md的Markdown文件，其中描述了项目的各个主题，并包含指令，可以自动执行任务。而模板功能是该项目的扩展，允许用户存储可重用的任务，并在构建文档中包含这些任务。用户可以在模板中指定变量，以实现可重用但又适应项目的代码。最后，该项目还提供了相关命令，例如'--templates'可以获取所有模板的列表，'--edit-template'可以打开任意模板进行编辑。整体而言，Howzit项目对开发人员非常有用。 <div>
 <noscript class="loading-lazy">
                 <source media="(max-width: 640px)" />
@@ -113,9 +114,7 @@ end
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16762490.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2024-08-05T14:35:00-05:00</pubDate>
-<pubDate>2024-08-05T14:35:00-05:00</pubDate>
 </item>
-
 <item>
 <title>Binbundle: A gem for saving and restoring gem binaries</title>
 <link>https://brett.trpstra.net/link/535/16760430/binbundle-a-gem-for-restoring-gem-binaries</link>
