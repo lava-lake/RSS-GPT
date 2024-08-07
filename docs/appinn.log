@@ -33612,3 +33612,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-08-07 08:21:39.296739
+------------------------------------------------------
+Started: 2024-08-07 10:17:33.974701
+Existing_entries: 505
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Token length: 156
+Summarized using GPT-3.5-turbo-1106
+Append: [求一个上滑下滑刷视频的APP，支持webdav协议](https://meta.appinn.net/t/topic/59667)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-08-07 10:17:40.425472
