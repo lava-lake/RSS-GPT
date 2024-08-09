@@ -4,13 +4,14 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>SearchLink with improved bookmark and history searching</title>
 <link>https://brett.trpstra.net/link/535/16767225/searchlink-with-improved-bookmark-and-history-searching</link>
 <guid>https://brett.trpstra.net/link/535/16767225/searchlink-with-improved-bookmark-and-history-searching</guid>
 <content:encoded><![CDATA[
 <div> [SearchLink]、bug report、browser searching tools、browser bookmarks、Arc support
-<br>
+<br />
 这篇文章介绍了SearchLink的更新情况，起因是朋友报告了一个bug。作者修复了一些已经出现的bug，并且花时间在各种浏览器搜索工具上，使SearchLink能够扫描浏览器书签和浏览历史，以查找与搜索词相关的链接。此外，作者还改进了Arc支持，因为书签文件格式已经发生了变化。这次更新虽然不是很重大，但也值得一提。如果你是Markdown用户，那么强烈推荐你试试SearchLink！ <div>
 <p>[SearchLink]: <a href="https://brettterpstra.com/projects/searchlink/" title="SearchLink">searchlink</a>
 [wiki]: https://github.com/ttscoff/searchlink/wiki/Searching-Browser-History-And-Bookmarks</p>
@@ -36,9 +37,7 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16767225.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2024-08-09T12:47:00-05:00</pubDate>
-<pubDate>2024-08-09T12:47:00-05:00</pubDate>
 </item>
-
 <item>
 <title>Speed up development with Howzit templates</title>
 <link>https://brett.trpstra.net/link/535/16762490/speed-up-development-with-howzit-templates</link>
