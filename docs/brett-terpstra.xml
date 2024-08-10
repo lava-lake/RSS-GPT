@@ -4,13 +4,14 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>Add SearchLink plugins using any programming language</title>
 <link>https://brett.trpstra.net/link/535/16767700/add-searchlink-plugins-using-any-programming-language</link>
 <guid>https://brett.trpstra.net/link/535/16767700/add-searchlink-plugins-using-any-programming-language</guid>
 <content:encoded><![CDATA[
 <div> Python, plugins, YAML, JSON, SearchLink
-<br><br>总结:
+<br /><br />总结:
 文章介绍了关于使用Python编写插件的梦想，虽然实际上并没有人提出这个要求。作者在周六早晨进行了编码工作，使得现在可以用任何编程语言编写脚本，并且只要返回合适的YAML或JSON格式及相应的键，就可以作为SearchLink插件。每个插件都需要一个配置文件，可以是YAML或JSON格式，具体细节都在文章中有介绍。此外，还新增了一个功能，可以处理文档或选定部分中的裸露URL。如果在文件/选定部分的顶部添加了complete_bare: true，那么任何不是自链接或Markdown链接的URL都会被转换为完整的Markdown链接，并且以页面标题作为链接文本。这个功能非常适合整理播客节目笔记或博客链接帖子，当你只有一个URL列表的时候。 <div>
 <noscript class="loading-lazy">
                 <source media="(max-width: 640px)" />
@@ -35,9 +36,7 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16767700.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2024-08-10T13:38:00-05:00</pubDate>
-<pubDate>2024-08-10T13:38:00-05:00</pubDate>
 </item>
-
 <item>
 <title>SearchLink with improved bookmark and history searching</title>
 <link>https://brett.trpstra.net/link/535/16767225/searchlink-with-improved-bookmark-and-history-searching</link>
