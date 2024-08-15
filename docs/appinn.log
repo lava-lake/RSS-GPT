@@ -34449,3 +34449,14 @@ Fetching from https://meta.appinn.net/tag/macos.rss
 Feed error: 403
 append_entries: 0
 error when rendering xml, skip docs/appinn
+------------------------------------------------------
+Started: 2024-08-15 10:19:58.427275
+Existing_entries: 514
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 187
+Summarized using GPT-3.5-turbo-1106
+Append: [[有] 有没有对网页输入框中内容进行替换的浏览器插件？](https://meta.appinn.net/t/topic/12704)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-08-15 10:20:03.676915
