@@ -35528,3 +35528,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-08-26 10:18:54.008132
+------------------------------------------------------
+Started: 2024-08-26 12:33:29.089260
+Existing_entries: 519
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 283
+Summarized using GPT-3.5-turbo-1106
+Append: [是否有原样保存 Edge 的标签分组的插件](https://meta.appinn.net/t/topic/42357)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-08-26 12:33:34.845014
