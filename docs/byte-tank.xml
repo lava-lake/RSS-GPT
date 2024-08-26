@@ -4,14 +4,15 @@
 <title>Byte Tank - Pedro Lopes Blog</title>
 <link>https://lopespm.com/</link>
 
+
 <item>
 <title>UK Investment Guide</title>
 <link>https://lopespm.com/notes/2024/08/26/uk-investment-guide.html</link>
 <guid>https://lopespm.com/notes/2024/08/26/uk-investment-guide.html</guid>
 <content:encoded><![CDATA[
 <div> 股票、ISA、基金、投资、英国
-<br><br>这篇文章介绍了如何开始投资的实用建议。首先强调了投资的重要性，然后介绍了投资的基本原则和方法。建议首先建立应急基金，清偿债务，制定预算，自动化投资，并进行多元化投资。然后介绍了一些投资工具，如工作场所养老金、股票和ETF、现金回扣、以及股权投资。最后强调了适度优化，自动化投资的重要性。总的来说，这篇文章为想要开始投资的人提供了一些建议和指导。 
-<br><br>总结: 这篇文章介绍了投资的重要性和方法，包括建立应急基金，清偿债务，预算管理，自动化投资和多元化投资。同时介绍了一些投资工具，如工作场所养老金、股票和ETF、现金回扣以及股权投资。最后强调了适度优化和自动化投资的重要性。 <div>
+<br /><br />这篇文章介绍了如何开始投资的实用建议。首先强调了投资的重要性，然后介绍了投资的基本原则和方法。建议首先建立应急基金，清偿债务，制定预算，自动化投资，并进行多元化投资。然后介绍了一些投资工具，如工作场所养老金、股票和ETF、现金回扣、以及股权投资。最后强调了适度优化，自动化投资的重要性。总的来说，这篇文章为想要开始投资的人提供了一些建议和指导。 
+<br /><br />总结: 这篇文章介绍了投资的重要性和方法，包括建立应急基金，清偿债务，预算管理，自动化投资和多元化投资。同时介绍了一些投资工具，如工作场所养老金、股票和ETF、现金回扣以及股权投资。最后强调了适度优化和自动化投资的重要性。 <div>
 <p>The sooner investments are made, the more profound their results will be, and if you are living in the United Kingdom and not taking advantage of its welcoming investment opportunities to put your money to work for you, you’re missing out. Don’t postpone it.</p>
 
 <p>This article provides concise, practical, straight to point suggestions on how to kick start your investment journey.</p>
@@ -244,10 +245,8 @@
   </ol>
 </div>
 ]]></content:encoded>
-
 <pubDate>2024-08-26T00:00:00+00:00</pubDate>
 </item>
-
 <item>
 <title>Personal Local (Llama3 8B) LLM extended with WhatsApp + Obsidian Data</title>
 <link>https://lopespm.com/machine_learning/2024/06/24/personal-llm.html</link>
