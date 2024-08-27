@@ -35611,3 +35611,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-08-27 06:24:32.632784
+------------------------------------------------------
+Started: 2024-08-27 08:22:28.886229
+Existing_entries: 520
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 151
+Summarized using GPT-3.5-turbo-1106
+Append: [离线保存网页完整功能](https://meta.appinn.net/t/topic/60368)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-08-27 08:22:33.817179
