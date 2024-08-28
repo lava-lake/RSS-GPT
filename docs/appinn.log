@@ -35738,3 +35738,11 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Veusz——开源、免费、轻量级的科研作图软件](https://meta.appinn.net/t/topic/60405)
 append_entries: 2
 Finish: 2024-08-28 10:17:50.635229
+------------------------------------------------------
+Started: 2024-08-28 12:34:33.401049
+Existing_entries: 525
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-08-28 12:34:36.333795
