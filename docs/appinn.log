@@ -35724,3 +35724,17 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-08-28 08:22:12.499155
+------------------------------------------------------
+Started: 2024-08-28 10:17:40.255773
+Existing_entries: 523
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 111
+Summarized using GPT-3.5-turbo-1106
+Append: [文件类似浏览器网页切换](https://meta.appinn.net/t/topic/60406)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Token length: 533
+Summarized using GPT-3.5-turbo-1106
+Append: [Veusz——开源、免费、轻量级的科研作图软件](https://meta.appinn.net/t/topic/60405)
+append_entries: 2
+Finish: 2024-08-28 10:17:50.635229
