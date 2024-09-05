@@ -5,12 +5,32 @@
 <link>https://meta.appinn.net/tag/macos</link>
 
 <item>
+<title>有没有可以屏蔽以及跳过所有B站充电视频的插件、扩展或脚本？</title>
+<link>https://meta.appinn.net/t/topic/60662</link>
+<guid>https://meta.appinn.net/t/topic/60662</guid>
+<content:encoded><![CDATA[
+<div> 插件, 屏蔽, 充电视频, 连续播放, 自动跳过
+
+这篇文章讨论了如何通过插件屏蔽b站关注列表中的所有充电视频，并解决在连续播放下自动跳过当前或下一个充电视频的问题。作者认为，连续播放时遇到充电视频会导致浏览器卡住不播放，对习惯打开自动播放并将浏览器最小化的用户来说很烦人。因此，作者打算在另一个b站插件中咨询该问题，并希望得到解决。文章内容主要是针对b站视频播放中的插件使用问题并提出相关建议。 <div>
+<p>例如：<br />
+屏蔽关注列表中的所有充电视频。<br />
+连续播放的情况下自动跳过当前或者下一个充电视频。</p>
+<p>主要是如果打开连续播放他播放到了充电视频就会一直卡在那里不播了，对于习惯打开自动播放把浏览器拖到其他显示器或者最小化的人来说这点很烦人。</p>
+<p>之前在另一个b站插件里问过 但我打算新开一个话题问下。</p>
+            <p><small>2 个帖子 - 2 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/60662">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Thu, 05 Sep 2024 01:51:46 +0000</pubDate>
+<pubDate>Thu, 05 Sep 2024 01:51:46 +0000</pubDate>
+</item>
+
+<item>
 <title>Keyviz 汉化版 - 开源免费的按键可视化工具</title>
 <link>https://meta.appinn.net/t/topic/60657</link>
 <guid>https://meta.appinn.net/t/topic/60657</guid>
 <content:encoded><![CDATA[
 <div> Keyviz, 汉化版, 可视化, 按键, 鼠标操作
-<br><br>总结:
+<br /><br />总结:
 Keyviz是一款免费开源的按键可视化软件，汉化版已经推出，支持Windows、macOS和Linux平台。该软件可以实时显示按键和鼠标操作，适用于录屏、演讲和团队协作。汉化版经过测试在Windows端功能正常，但如果macOS和Linux用户发现问题，可以在仓库提出issue。软件特点包括开源免费、支持键盘和鼠标、自定义样式、可以忽略打字只显示快捷键操作、可以用快捷键开启和关闭，以及可以指定显示器。 <div>
 <h1><a class="anchor" href="https://meta.appinn.net#p-222366-keyviz-1" name="p-222366-keyviz-1"></a>Keyviz 汉化版</h1>
 <p>Keyviz 是一款免费开源的按键可视化软件，可以实时显示您的按键和鼠标操作！<br />
@@ -68,9 +88,7 @@ Keyviz是一款免费开源的按键可视化软件，汉化版已经推出，�
             <p><a href="https://meta.appinn.net/t/topic/60657">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 04 Sep 2024 23:10:50 +0000</pubDate>
-<pubDate>Wed, 04 Sep 2024 23:10:50 +0000</pubDate>
 </item>
-
 <item>
 <title>【自荐】FliTik翻页时钟-美到极致&amp;跨平台&amp;App免费无广告的翻页时钟</title>
 <link>https://meta.appinn.net/t/topic/60635</link>
