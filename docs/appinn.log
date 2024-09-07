@@ -36728,3 +36728,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-09-07 10:17:24.737776
+------------------------------------------------------
+Started: 2024-09-07 12:31:18.485917
+Existing_entries: 535
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Token length: 74
+Summarized using GPT-3.5-turbo-1106
+Append: [OneDrive会自动在桌面创建OneDrive文件夹的快捷方式](https://meta.appinn.net/t/topic/60766)
+append_entries: 1
+Finish: 2024-09-07 12:31:25.964914
