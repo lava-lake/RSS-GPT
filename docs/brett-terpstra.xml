@@ -4,13 +4,14 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>Welcome to the lab 4.0</title>
 <link>https://brett.trpstra.net/link/535/16796719/welcome-to-the-lab-4-dot-0</link>
 <guid>https://brett.trpstra.net/link/535/16796719/welcome-to-the-lab-4-dot-0</guid>
 <content:encoded><![CDATA[
 <div> Jekyll, redesign, Liquid, Ruby, comments
-Brett Terpstra昨晚对网站进行了重新设计，受到了Jekyll的启发，并通过对Jekyll设置的大量工作来完成。他表示，虽然不喜欢在Liquid中进行模板设计，但喜欢用Ruby编写过滤器。此外，他每隔几年就会对网站进行重新设计。尽管嵌入式评论目前存在问题，但他邀请读者通过电子邮件进行反馈。最后，他提到了网站的运行时间，以及对读者的感谢和支持。<br><br>总结: Brett Terpstra昨晚对网站进行了重新设计，受到了Jekyll的启发。尽管不喜欢在Liquid中进行模板设计，但喜欢用Ruby编写过滤器。他每隔几年就会对网站进行重新设计。尽管嵌入式评论目前存在问题，但他邀请读者通过电子邮件进行反馈。最后，他提到了网站的运行时间，以及对读者的感谢和支持。 <div>
+Brett Terpstra昨晚对网站进行了重新设计，受到了Jekyll的启发，并通过对Jekyll设置的大量工作来完成。他表示，虽然不喜欢在Liquid中进行模板设计，但喜欢用Ruby编写过滤器。此外，他每隔几年就会对网站进行重新设计。尽管嵌入式评论目前存在问题，但他邀请读者通过电子邮件进行反馈。最后，他提到了网站的运行时间，以及对读者的感谢和支持。<br /><br />总结: Brett Terpstra昨晚对网站进行了重新设计，受到了Jekyll的启发。尽管不喜欢在Liquid中进行模板设计，但喜欢用Ruby编写过滤器。他每隔几年就会对网站进行重新设计。尽管嵌入式评论目前存在问题，但他邀请读者通过电子邮件进行反馈。最后，他提到了网站的运行时间，以及对读者的感谢和支持。 <div>
 <noscript class="loading-lazy">
                 <source media="(max-width: 640px)" />
                 <source type="image/avif" />
@@ -43,9 +44,7 @@ Brett Terpstra昨晚对网站进行了重新设计，受到了Jekyll的启发，
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16796719.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2024-09-08T08:42:00-05:00</pubDate>
-<pubDate>2024-09-08T08:42:00-05:00</pubDate>
 </item>
-
 <item>
 <title>Planter 3.0</title>
 <link>https://brett.trpstra.net/link/535/16796639/planter-3-dot-0</link>
