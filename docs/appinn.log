@@ -37012,3 +37012,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-09-10 06:25:25.265102
+------------------------------------------------------
+Started: 2024-09-10 08:22:58.700200
+Existing_entries: 539
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 108
+Summarized using GPT-3.5-turbo-1106
+Append: [DROP - 文件分享，文件收集，文件管理，新一代网盘](https://meta.appinn.net/t/topic/60849)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-09-10 08:23:03.628440
