@@ -4,13 +4,14 @@
 <title>Byte Tank - Pedro Lopes Blog</title>
 <link>https://lopespm.com/</link>
 
+
 <item>
 <title>Obsidian Encrypted Backup - Google Drive, Dropbox, OneDrive</title>
 <link>https://lopespm.com/notes/2024/09/11/obsidian-backup.html</link>
 <guid>https://lopespm.com/notes/2024/09/11/obsidian-backup.html</guid>
 <content:encoded><![CDATA[
 <div> Evernote, Obsidian, Cloud, Backup, Shell Plugin
-<br><br>
+<br /><br />
 总结:
 文章介绍了作者从Evernote迁移到Obsidian的经历，以及如何通过使用Shell插件编写自定义脚本来实现Obsidian自动备份到Google Drive的方法。作者在文章中详细介绍了如何编写自定义脚本以及如何在Obsidian中设置自动运行脚本的步骤。这样的备份方案可以帮助用户更好地控制自己的笔记备份，并提高备份的安全性和可靠性。 <div>
 <p>After several years using Evernote, I’ve eventually migrated all my notes into Obsidian, which allowed me to have full control of my notes, in a format that I could use, move, or <a href="https://lopespm.com/machine_learning/2024/06/24/personal-llm.html">leverage upon</a>. As a consequence, my notes would no longer live in the cloud and my personal device, so any redundancy and backups would need to be guaranteed by me, via my personal periodic backups.</p>
@@ -154,10 +155,8 @@ echo &quot;Finished compressing and moving to backup folder&quot;
 
 <p>All done! After performing these steps, your backup script will run whenever you chose to, and the encrypted backup will be created and placed in the location that you chose on <a href="https://lopespm.com/notes/2024/09/11/obsidian-backup.html#step-1-custom-script-that-encrypts-and-backs-up-all-notes">Step 1.</a> above 🎉</p>
 ]]></content:encoded>
-
 <pubDate>2024-09-11T00:00:00+00:00</pubDate>
 </item>
-
 <item>
 <title>Investment Tracker - Free Spreadsheet Template</title>
 <link>https://lopespm.com/notes/2024/09/01/investment-tracker.html</link>
