@@ -4,6 +4,45 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+<item>
+<title>Marky is back</title>
+<link>https://brett.trpstra.net/link/535/16809038/marky-is-back</link>
+<guid>https://brett.trpstra.net/link/535/16809038/marky-is-back</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Marky, Pandoc, GFM formatting, API, Brett Terpstra
+
+Marky是一个将网页转换成Markdown的工具，它现在使用Pandoc和GFM格式。它还提供了一个API，可以输出到各种格式（包括包含标题、来源、渲染内容和Markdown内容的JSON）。如果你想了解更多信息，请查看Marky页面的API部分。希望你会觉得这个工具很有用！我现在可以添加回我的“添加到nvALT”链接了，这次更新到...
+
+Beta版本快完成了，如果你还想参与，只需通过邮件联系我...
+
+请查看Marky的网页，点赞或分享这篇文章...
+
+BrettTerpstra.com受到诸如你这样的读者的支持。所有材料©2024 Brett Terpstra。总结：Marky是一个新的工具，可以将网页转换成Markdown格式，它使用Pandoc和GFM格式，并提供了API接口。Beta版本即将完成，如果你对此感兴趣，请通过邮件联系作者。Brett Terpstra感谢读者的支持。 <div>
+<p>I finally fixed <a href="https://markdownrules.com/">Marky the Markdownifier</a>. I didn&rsquo;t do any updates to the interface as it is, in my opinion, not too bad.</p>
+
+<p>Marky is a tool for turning web pages into Markdown. It now uses Pandoc with GFM formatting. There&rsquo;s an API available for outputting to various formats (including JSON with title, source, rendered content, and Markdown content). See the API section of the Marky page for more info.</p>
+
+<p>Hope you find this useful! I&rsquo;ll actually be able to add back my &ldquo;add to nvALT&rdquo; links now, updated for <a href="https://nvultra.com">nvUltra</a><sup id="fnref:nv"><a class="footnote" href="https://brettterpstra.com#fn:nv" rel="footnote">1</a></sup>&hellip;</p>
+
+<p>Check Marky out at <a href="https://markdownrules.com/">markdownrules.com</a>.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:nv">
+      <p>Beta is almost finished, if you still want on board, just email me through the <a href="https://nvultra.com">nvUltra site</a>.&nbsp;<a class="reversefootnote" href="https://brettterpstra.com#fnref:nv">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+<p>Like or share this post <a href="https://nojack.easydns.ca/users/ttscoff/statuses/113142009204600751" target="_blank" title="This post on Mastodon">on Mastodon</a> or <a class="twitter" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fbrettterpstra.com%2F2024%2F09%2F15%2Fmarky-is-back%2F&amp;text=Marky+is+back&amp;url=https%3A%2F%2Fbrettterpstra.com%2F2024%2F09%2F15%2Fmarky-is-back%2F&amp;via=ttscoff" rel="nofollow" target="_blank" title="Tweet this post">Twitter</a>.</p>
+    <hr style="margin: 40px 0;" />
+<p>BrettTerpstra.com is supported by readers like you. <a href="https://brettterpstra.com/support/">Click here if you'd like to help out.</a></p>
+<p class="copyright">All materials &copy;2024 Brett Terpstra</p>
+<p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16809038.gif" width="1" />
+]]></content:encoded>
+<pubDate>2024-09-15T09:08:00-05:00</pubDate>
+<pubDate>2024-09-15T09:08:00-05:00</pubDate>
+</item>
 
 <item>
 <title>Cookiecutter: a Planter alternative</title>
