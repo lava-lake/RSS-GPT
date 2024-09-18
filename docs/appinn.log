@@ -37804,3 +37804,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-09-18 06:26:13.855949
+------------------------------------------------------
+Started: 2024-09-18 08:21:12.694710
+Existing_entries: 547
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Token length: 577
+Summarized using GPT-3.5-turbo-1106
+Append: [请教使用MacBook Air和Flutter的经验者：黑苹果环境下的开发与设备兼容问题](https://meta.appinn.net/t/topic/61111)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-09-18 08:21:18.240238
