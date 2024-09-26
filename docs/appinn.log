@@ -38626,3 +38626,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-09-26 12:37:22.347001
+------------------------------------------------------
+Started: 2024-09-26 14:18:07.609362
+Existing_entries: 557
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 84
+Summarized using GPT-3.5-turbo-1106
+Append: [YouTube的字幕有办法选中复制吗](https://meta.appinn.net/t/topic/24935)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-09-26 14:18:13.348922
