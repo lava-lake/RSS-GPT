@@ -38739,3 +38739,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-09-27 14:17:39.094270
+------------------------------------------------------
+Started: 2024-09-27 16:23:07.387060
+Existing_entries: 560
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Token length: 236
+Summarized using GPT-3.5-turbo-1106
+Append: [haystack editor - 在无限大的画布上写代码](https://meta.appinn.net/t/topic/61459)
+append_entries: 1
+Finish: 2024-09-27 16:23:15.787346
