@@ -4,6 +4,43 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+<item>
+<title>chrome扩展程序如何备份</title>
+<link>https://meta.appinn.net/t/topic/61436</link>
+<guid>https://meta.appinn.net/t/topic/61436</guid>
+<content:encoded><![CDATA[
+<div> chrome内核 浏览器 同步 扩展程序 备份 <br>
+本文介绍了chrome内核浏览器在同步账号时安装扩展程序但丢失配置的问题，以及对此希望能够通过本地备份扩展程序并进行一键恢复的需求。作者使用brave浏览器时也遇到了同步不会自动安装扩展程序到新设备的情况。因此，希望能够通过开发者模式进行一键恢复扩展程序配置。 <div>
+<p>众所周知，对于chrome内核的浏览器在登录账号开启自动同步的情况下，在新设备登录时会自动安装原有扩展程序，但是<strong>原有扩展程序设置会丢失，需要重新配置</strong>（只有少数扩展程序会有导入导出配置的选项）。所以有没有办法直接本地备份所有扩展程序，后面启用通过开发者模式进行安装（加载已解压的程序），一键恢复？<br />
+问题背景：本人目前使用的是brave，手机与电脑的同步似乎不会自动帮你安装扩展到新电脑端。这个问题不大。只是有些扩展程序需要登录账号，重新配置使用偏好比较麻烦。下面是论坛的类似帖子：<br />
+<a href="https://meta.appinn.net/t/topic/6397">Chrome的已安装扩展转移问题</a></p>
+            <p><small>2 个帖子 - 2 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/61436">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Fri, 27 Sep 2024 07:34:51 +0000</pubDate>
+<pubDate>Fri, 27 Sep 2024 07:34:51 +0000</pubDate>
+</item>
+<item>
+<title>无聊小技巧：利用 Chrome/Chromium 去除文本中的换行符</title>
+<link>https://meta.appinn.net/t/topic/61434</link>
+<guid>https://meta.appinn.net/t/topic/61434</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Linux Mint 22 Wilma, 换行符, Chrome, 地址栏, 合并
+
+总结: <br><br>本文介绍了在Linux Mint 22 Wilma系统上去除文本中换行符的方法。通过在Chrome的地址栏中粘贴文本并重新复制，可以很轻松地去除文本中的换行符，从而实现文本的合并。这个方法对于需要处理大段文本的用户来说非常实用。 <div>
+<p>注意：本方法只在 Linux Mint 22 Wilma 上测试过，其他系统没有测试。</p>
+<ol>
+<li>复制要去除换行符的文本。</li>
+<li>粘贴到 Chrome 的地址栏中。</li>
+<li>重新选中地址栏中的文本，并复制。</li>
+<li>在其他地方粘贴，即可发现文本中的换行均被去掉，文本已经合并为一行。</li>
+</ol>
+            <p><small>2 个帖子 - 2 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/61434">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Fri, 27 Sep 2024 06:27:19 +0000</pubDate>
+<pubDate>Fri, 27 Sep 2024 06:27:19 +0000</pubDate>
+</item>
 
 <item>
 <title>YouTube的字幕有办法选中复制吗</title>
