@@ -39769,3 +39769,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-10-08 01:23:38.322868
+------------------------------------------------------
+Started: 2024-10-08 02:53:05.624889
+Existing_entries: 570
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Token length: 486
+Summarized using GPT-3.5-turbo-1106
+Append: [【自荐】记录和提醒车辆保养状态的App](https://meta.appinn.net/t/topic/61743)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-10-08 02:53:10.560770
