@@ -39911,3 +39911,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-10-09 10:20:04.199231
+------------------------------------------------------
+Started: 2024-10-09 12:36:25.523561
+Existing_entries: 572
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 319
+Summarized using GPT-3.5-turbo-1106
+Append: [【自荐】个人维护的网站黑名单，过滤搜索引擎结果的垃圾网站](https://meta.appinn.net/t/topic/61796)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-10-09 12:36:34.618225
