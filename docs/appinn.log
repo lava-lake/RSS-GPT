@@ -40002,3 +40002,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-10-10 08:23:56.181558
+------------------------------------------------------
+Started: 2024-10-10 10:19:38.423873
+Existing_entries: 573
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Token length: 69
+Summarized using GPT-3.5-turbo-1106
+Append: [方方格子有无mac端的替代呢](https://meta.appinn.net/t/topic/61836)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-10-10 10:19:42.586836
