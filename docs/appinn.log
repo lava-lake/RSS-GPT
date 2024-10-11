@@ -40069,3 +40069,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-10-11 01:23:07.732473
+------------------------------------------------------
+Started: 2024-10-11 02:49:11.743018
+Existing_entries: 574
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 107
+Summarized using GPT-3.5-turbo-1106
+Append: [【开发者自荐】搜题助手：选中题目自动搜题，快速获取答案](https://meta.appinn.net/t/topic/61846)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-10-11 02:49:15.972447
