@@ -40192,3 +40192,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-10-12 06:24:11.105901
+------------------------------------------------------
+Started: 2024-10-12 08:21:34.923601
+Existing_entries: 575
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 1908
+Summarized using GPT-3.5-turbo-1106
+Append: [自部署免费的文档在线管理工具，在线编辑预览，私有存储，永久直链等](https://meta.appinn.net/t/topic/61908)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-10-12 08:21:40.792485
