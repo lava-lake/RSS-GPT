@@ -4,6 +4,7 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>Web Excursions for October 19, 2024</title>
 <link>https://brett.trpstra.net/link/535/16859872/web-excursions-for-october-19-2024</link>
@@ -11,9 +12,9 @@
 <content:encoded><![CDATA[
 <div> NordVPN, local web development, Moom 4, Github repository, Confluence documentation
 
-<br>包含多种技术，无需Docker或VM，终端完全集成的全新本地Web开发平台。Moom 4和Bunch的使用技巧。能够过滤文件类型，方便复制粘贴Github仓库内容至你所选择的LLM。将Confluence的HTML导出转换为Markdown，适用于Oracle内部文档团队，也适用于将Confluence文档转换为GitHub/GitLab页面。
+<br />包含多种技术，无需Docker或VM，终端完全集成的全新本地Web开发平台。Moom 4和Bunch的使用技巧。能够过滤文件类型，方便复制粘贴Github仓库内容至你所选择的LLM。将Confluence的HTML导出转换为Markdown，适用于Oracle内部文档团队，也适用于将Confluence文档转换为GitHub/GitLab页面。
 
-<br><br>总结: 本文介绍了NordVPN和本地Web开发的技术，以及Moom 4和Bunch的使用技巧。另外还提到了能过滤文件类型的Github仓库内容复制粘贴功能，以及将Confluence文档转换为Markdown格式的工具。 <div>
+<br /><br />总结: 本文介绍了NordVPN和本地Web开发的技术，以及Moom 4和Bunch的使用技巧。另外还提到了能过滤文件类型的Github仓库内容复制粘贴功能，以及将Confluence文档转换为Markdown格式的工具。 <div>
 <noscript class="loading-lazy">
                 <source media="(max-width: 640px)" />
                 <source type="image/avif" />
@@ -45,9 +46,7 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16859872.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2024-10-19T10:58:00-05:00</pubDate>
-<pubDate>2024-10-19T10:58:00-05:00</pubDate>
 </item>
-
 <item>
 <title>Web Excursions for October 04, 2024</title>
 <link>https://brett.trpstra.net/link/535/16834045/web-excursions-for-october-04-2024</link>
