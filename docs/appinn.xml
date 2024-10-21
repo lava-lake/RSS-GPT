@@ -4,6 +4,21 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+<item>
+<title>IPAD有可以连续点击的软件或者办法吗？</title>
+<link>https://meta.appinn.net/t/topic/62185</link>
+<guid>https://meta.appinn.net/t/topic/62185</guid>
+<content:encoded><![CDATA[
+<div> 关键词：IPAD，第三方APP，截图，自动化，需求
+
+在IPAD上使用第三方APP进行截图时，每次需要点击4次才能完成操作。现在有一个需求，希望能够自动化这个过程，以节省时间和精力。对于这个问题，有一些解决方案可以尝试。首先，可以考虑使用自动化测试工具，如Appium或Selenium，来编写脚本以模拟用户操作，实现自动化截图的功能。其次，也可以尝试寻找已有的第三方APP或者插件，来帮助实现自动化截图，有些应用或者插件可能已经提供了类似的功能，可以直接使用。总的来说，通过自动化测试工具或者寻找已有的解决方案，可以比较容易地实现在IPAD上进行截图操作的自动化。希望以上建议对您有所帮助。<br><br>总结: IPAD上的第三方APP截图需要点击4次，可以尝试使用自动化测试工具或寻找已有的第三方APP或插件来实现自动化截图。 <div>
+<p>目前有个需求，在一个IPAD上的第三方APP里截图，每截图一次需要点击4次，想要自动化完成这个过程，不知道有没有什么好办法。</p>
+            <p><small>4 个帖子 - 2 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/62185">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Mon, 21 Oct 2024 02:18:01 +0000</pubDate>
+<pubDate>Mon, 21 Oct 2024 02:18:01 +0000</pubDate>
+</item>
 
 <item>
 <title>如何导出微信联系人为excel格式？</title>
