@@ -41091,3 +41091,17 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-10-21 08:24:56.911937
+------------------------------------------------------
+Started: 2024-10-21 10:22:21.197053
+Existing_entries: 584
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Token length: 540
+Summarized using GPT-3.5-turbo-1106
+Append: [「Floweb」超轻量浮动桌面挂件](https://meta.appinn.net/t/topic/62205)
+Token length: 195
+Summarized using GPT-3.5-turbo-1106
+Append: [Vmware fusion 13的win11使用问题](https://meta.appinn.net/t/topic/62200)
+append_entries: 2
+Finish: 2024-10-21 10:22:28.421812
