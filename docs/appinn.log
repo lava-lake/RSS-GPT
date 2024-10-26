@@ -41633,3 +41633,14 @@ Append: [极光投影App提供全方位投屏体验，支持本地资源、在�
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-10-26 16:21:22.753285
+------------------------------------------------------
+Started: 2024-10-26 18:23:12.083270
+Existing_entries: 594
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 117
+Summarized using GPT-3.5-turbo-1106
+Append: [ARC浏览器差不多等于死亡](https://meta.appinn.net/t/topic/62411)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-10-26 18:23:15.535943
