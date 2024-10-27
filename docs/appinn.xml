@@ -4,12 +4,13 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>开源文件压缩加密归档实用工具集 Peazip 版本号更新到10</title>
 <link>https://meta.appinn.net/t/topic/62444</link>
 <guid>https://meta.appinn.net/t/topic/62444</guid>
 <content:encoded><![CDATA[
-<div> 更新至版本10，压缩、加密、归档、工具集，后端Pea和7z更新，界面和功能改进，增加了一些新的功能，修复了一些问题<br>更新日志回顾: Pea 1.20更新，新增了一些命令行选项，增强了文件浏览器和提取功能，新增了一些文件管理器和提取与归档的功能改进。<br>工具集更新，包含了一些新的功能和界面和功能改进，同时也修复了一些BUG。<br>总结: 本次更新主要是针对工具集的Pea进行的，新增了一些命令行选项，并对文件浏览器和提取功能进行了改进。整体上还增加了一些新的功能，修复了一些BUG。 <div>
+<div> 更新至版本10，压缩、加密、归档、工具集，后端Pea和7z更新，界面和功能改进，增加了一些新的功能，修复了一些问题<br />更新日志回顾: Pea 1.20更新，新增了一些命令行选项，增强了文件浏览器和提取功能，新增了一些文件管理器和提取与归档的功能改进。<br />工具集更新，包含了一些新的功能和界面和功能改进，同时也修复了一些BUG。<br />总结: 本次更新主要是针对工具集的Pea进行的，新增了一些命令行选项，并对文件浏览器和提取功能进行了改进。整体上还增加了一些新的功能，修复了一些BUG。 <div>
 <p>开源文件压缩加密归档实用工具集 <a href="https://peazip.github.io/index.html" rel="noopener nofollow ugc">Peazip</a> 近日更新至版本10，其版本号全部为零，非常整齐。</p>
 <p>顺便回顾一下这两年几版的更新日志：</p>
 <pre><code class="lang-auto">2024年10月26日
@@ -436,9 +437,7 @@ Pea 1.12
             <p><a href="https://meta.appinn.net/t/topic/62444">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Sun, 27 Oct 2024 20:04:02 +0000</pubDate>
-<pubDate>Sun, 27 Oct 2024 20:04:02 +0000</pubDate>
 </item>
-
 <item>
 <title>在ChatGPT会话中显示目录的插件</title>
 <link>https://meta.appinn.net/t/topic/62419</link>
