@@ -41826,3 +41826,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-10-28 14:18:25.247699
+------------------------------------------------------
+Started: 2024-10-28 16:23:59.548038
+Existing_entries: 597
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 395
+Summarized using GPT-3.5-turbo-1106
+Append: [求助如何取消chrome浏览器右键菜单bing图片搜索和google图片说明问题](https://meta.appinn.net/t/topic/62480)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-10-28 16:24:04.562645
