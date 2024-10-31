@@ -4,6 +4,7 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>使用av1脚本让YouTube有更好的观看体验（尽量）</title>
 <link>https://meta.appinn.net/t/topic/62608</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> av1, 体积控制, 画面表现, 观看体验, 脚本安装
 
-总结:<br><br>通过对比截图和视频编码格式，发现目前av1在体积控制和画面表现上具有优势，尤其在1080p视频中能够带来更好的观看体验。建议安装相关脚本以获得更佳的观看体验。然而，av1偶尔出现一些小问题，需要进一步优化。同时，对于在线观看，vp9在高码率下表现自然，但整体颜色偏白，而线上流的表现不如av1。因此，在选择视频编码格式时，需要根据具体情况进行权衡。 <div>
+总结:<br /><br />通过对比截图和视频编码格式，发现目前av1在体积控制和画面表现上具有优势，尤其在1080p视频中能够带来更好的观看体验。建议安装相关脚本以获得更佳的观看体验。然而，av1偶尔出现一些小问题，需要进一步优化。同时，对于在线观看，vp9在高码率下表现自然，但整体颜色偏白，而线上流的表现不如av1。因此，在选择视频编码格式时，需要根据具体情况进行权衡。 <div>
 <p>先下结论，目前<code>av1</code>有最好的体积控制，以及<strong>相对最好</strong>的画面表现。建议安装 <a href="https://greasyfork.org/zh-CN/scripts/466127-use-youtube-av1" rel="noopener nofollow ugc">使用 YouTube AV1</a> 脚本来获得更好的观看体验。</p>
 <p>目前来说，4k、2k都是vp9，没得选。1080p也不是全都有av1。只能说在有av1的1080p视频，能有更好的体验。</p>
 <hr />
@@ -67,9 +68,7 @@ yt-dlp显示为premium，但不是yt premium那个付费内容，视频页没有
             <p><a href="https://meta.appinn.net/t/topic/62608">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 31 Oct 2024 13:24:35 +0000</pubDate>
-<pubDate>Thu, 31 Oct 2024 13:24:35 +0000</pubDate>
 </item>
-
 <item>
 <title>如何同时使用Tailscale和其他VPN？</title>
 <link>https://meta.appinn.net/t/topic/62556</link>
