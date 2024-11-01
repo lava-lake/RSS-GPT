@@ -4,13 +4,14 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>linkding for SearchLink</title>
 <link>https://brett.trpstra.net/link/535/16872695/linkding-for-searchlink</link>
 <guid>https://brett.trpstra.net/link/535/16872695/linkding-for-searchlink</guid>
 <content:encoded><![CDATA[
 <div> 搜索、更新、工具、支持、读者
-<br><br>总结：
+<br /><br />总结：
 搜索工具今天更新了，现在支持使用!ld或!ding进行搜索。这个更新主要是为了适配使用的工具。读者可以在网站的底部找到配置设置。如果需要最新版本的搜索工具，可以在网站上获取。 <div>
 <p>I added <a href="https://linkding.link/">linkding</a> searching to <a href="https://brettterpstra.com//projects/searchlink">SearchLink</a> this morning. It works the same as <a href="https://github.com/ttscoff/searchlink/wiki/Searching-Pinboard">Pinboard searching</a>, just with <code class="language-plaintext highlighter-rouge">!ld</code> (or <code class="language-plaintext highlighter-rouge">!ding</code>) as the search shortcut. See the bottom of the Pinboard search page for configuration setup.</p>
 
@@ -23,9 +24,7 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16872695.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2024-11-01T09:19:00-05:00</pubDate>
-<pubDate>2024-11-01T09:19:00-05:00</pubDate>
 </item>
-
 <item>
 <title>Archive linkding bookmarks to local Markdown</title>
 <link>https://brett.trpstra.net/link/535/16871753/archive-linkding-bookmarks-to-local-markdown</link>
