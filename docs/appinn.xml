@@ -4,6 +4,7 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>Chrome更新后怎么显示效果变差了？</title>
 <link>https://meta.appinn.net/t/topic/62701</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Chrome 浏览器, 显示效果, 变得差, ChatGPT 官网, 求救
 
-Chrome 浏览器最近的显示效果变得很差，尤其在访问 ChatGPT 官网时情况更加明显。求助者使用的是版本号为 130.0.6723.92 的正式版 Chrome 浏览器，操作系统为 Win11。希望能够得到帮助。 <br><br>总结: Chrome 浏览器显示效果变差，特别在访问 ChatGPT 官网时更明显，求助者使用的是版本号为 130.0.6723.92 的正式版 Chrome 浏览器，操作系统为 Win11。 <div>
+Chrome 浏览器最近的显示效果变得很差，尤其在访问 ChatGPT 官网时情况更加明显。求助者使用的是版本号为 130.0.6723.92 的正式版 Chrome 浏览器，操作系统为 Win11。希望能够得到帮助。 <br /><br />总结: Chrome 浏览器显示效果变差，特别在访问 ChatGPT 官网时更明显，求助者使用的是版本号为 130.0.6723.92 的正式版 Chrome 浏览器，操作系统为 Win11。 <div>
 <p>最近Chrome浏览器的显示效果变得很差，比如本论坛：<br />
 <img alt="PixPin_2024-11-03_13-11-01.png" height="223" src="https://h1.appinn.me/file/1730610726110_PixPin_2024-11-03_13-11-01.png" width="690" /><br />
 ChatGPT官网：<br />
@@ -24,19 +25,18 @@ ChatGPT官网：<br />
             <p><a href="https://meta.appinn.net/t/topic/62701">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Sun, 03 Nov 2024 05:17:46 +0000</pubDate>
-<pubDate>Sun, 03 Nov 2024 05:17:46 +0000</pubDate>
 </item>
 <item>
 <title>【新闻】LocalSend更新了1.16.0版本</title>
 <link>https://meta.appinn.net/t/topic/62699</link>
 <guid>https://meta.appinn.net/t/topic/62699</guid>
 <content:encoded><![CDATA[
-<div> Windows 7, Flutter, LocalSend, Rust, HTTP<br>
-重要更新内容：<br>
-允许仅从标记的设备中自动接收文件。当使用LocalSend时，现在可以设置只接收来自特定设备的文件，增强了用户的隐私保护和安全性。<br>
-允许仅在文件接收成功或跳过时自动完成，失败时提示。用户可以在文件接收完成或者跳过时自动进行下一步操作，同时还会收到失败时的提示，提升了用户的使用体验。<br>
-语言本地化与docs改进。本次更新还进行了语言本地化和文档的改进，让用户更加便利地使用该功能。<br>
-改善传输速度。现在LocalSend使用Rust作为HTTP客户端，这样提高了发送文件时的性能，尤其是在发送设备性能较低的情况下。这让用户可以更快速地发送文件。<br> <div>
+<div> Windows 7, Flutter, LocalSend, Rust, HTTP<br />
+重要更新内容：<br />
+允许仅从标记的设备中自动接收文件。当使用LocalSend时，现在可以设置只接收来自特定设备的文件，增强了用户的隐私保护和安全性。<br />
+允许仅在文件接收成功或跳过时自动完成，失败时提示。用户可以在文件接收完成或者跳过时自动进行下一步操作，同时还会收到失败时的提示，提升了用户的使用体验。<br />
+语言本地化与docs改进。本次更新还进行了语言本地化和文档的改进，让用户更加便利地使用该功能。<br />
+改善传输速度。现在LocalSend使用Rust作为HTTP客户端，这样提高了发送文件时的性能，尤其是在发送设备性能较低的情况下。这让用户可以更快速地发送文件。<br /> <div>
 <aside class="onebox allowlistedgeneric">
   <header class="source">
       <img class="site-icon" height="32" src="https://github.githubassets.com/favicons/favicon.svg" width="32" />
@@ -74,9 +74,7 @@ LocalSend now uses Rust as HTTP client (rhttp). This improves performance when t
             <p><a href="https://meta.appinn.net/t/topic/62699">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Sun, 03 Nov 2024 04:36:46 +0000</pubDate>
-<pubDate>Sun, 03 Nov 2024 04:36:46 +0000</pubDate>
 </item>
-
 <item>
 <title>求ios中能自定义令牌的聊天app</title>
 <link>https://meta.appinn.net/t/topic/62680</link>
