@@ -4,6 +4,7 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>有哪些有趣实用的不需要服务器在vercel github或者cf pages就能部署实用的开源项目呢？</title>
 <link>https://meta.appinn.net/t/topic/62994</link>
@@ -11,15 +12,13 @@
 <content:encoded><![CDATA[
 <div> 开源项目, 不需要服务器, vercel, github, cf pages
 
-总结:<br><br>本文讨论了一些有趣实用的开源项目，这些项目无需依赖服务器，可以直接部署和使用，无需 vercel、github 或 cf pages。这些项目的实用性强，可以帮助用户快速搭建应用程序或网站，同时也能够提供一定的娱乐性。这些项目的开源性质意味着用户可以自由地查看和修改其源代码，从而定制符合自己需求的版本。通过本文介绍的项目，用户可以更好地了解开源社区的创新和活力。 <div>
+总结:<br /><br />本文讨论了一些有趣实用的开源项目，这些项目无需依赖服务器，可以直接部署和使用，无需 vercel、github 或 cf pages。这些项目的实用性强，可以帮助用户快速搭建应用程序或网站，同时也能够提供一定的娱乐性。这些项目的开源性质意味着用户可以自由地查看和修改其源代码，从而定制符合自己需求的版本。通过本文介绍的项目，用户可以更好地了解开源社区的创新和活力。 <div>
 <p>有哪些有趣实用的不需要服务器在vercel github或者cf pages就能部署使用的开源项目呢？</p>
             <p><small>1 个帖子 - 1 位参与者</small></p>
             <p><a href="https://meta.appinn.net/t/topic/62994">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 11 Nov 2024 02:20:25 +0000</pubDate>
-<pubDate>Mon, 11 Nov 2024 02:20:25 +0000</pubDate>
 </item>
-
 <item>
 <title>【自荐】Certimate-开源的 SSL证书管理工具，可以帮助你自动申请、部署、续期 SSL 证书</title>
 <link>https://meta.appinn.net/t/topic/62992</link>
