@@ -43145,3 +43145,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-11-10 22:16:34.234651
+------------------------------------------------------
+Started: 2024-11-11 01:24:04.446378
+Existing_entries: 610
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 1633
+Summarized using GPT-3.5-turbo-1106
+Append: [【自荐】Certimate-开源的 SSL证书管理工具，可以帮助你自动申请、部署、续期 SSL 证书](https://meta.appinn.net/t/topic/62992)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-11-11 01:24:09.635458
