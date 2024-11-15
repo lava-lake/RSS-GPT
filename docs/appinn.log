@@ -43552,3 +43552,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-11-15 01:36:07.442457
+------------------------------------------------------
+Started: 2024-11-15 02:57:16.075108
+Existing_entries: 615
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 30
+Summarized using GPT-3.5-turbo-1106
+Append: [有没有可以反复截取屏幕固定位置和尺寸的区域并且自动保存的截屏软件？](https://meta.appinn.net/t/topic/63151)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-11-15 02:57:23.829970
