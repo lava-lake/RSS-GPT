@@ -4,12 +4,13 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>A card-based layout for linkding</title>
 <link>https://brett.trpstra.net/link/535/16889966/a-card-based-layout-for-linkding</link>
 <guid>https://brett.trpstra.net/link/535/16889966/a-card-based-layout-for-linkding</guid>
 <content:encoded><![CDATA[
-<div> CSS, Linkding, customization, Docker, Synology<br>
+<div> CSS, Linkding, customization, Docker, Synology<br />
 个人将linkding自定义成了类似LinkWarden的样式，通过CSS实现，包括链接显示方式、移动端适配、标签侧边栏等。运行在自己的Synology上，可以分享自定义布局给访客，进行公开收藏。可以通过设置dark mode、描述分离、使用快照图像和站点图标等进行个性化设置。详细步骤和注意事项也有提及。总结: 个人通过CSS定制了Linkding的外观和布局，包括链接显示方式和移动端适配等。同时提供了设置建议，以及公开分享自定义布局的方法。 <div>
 <p>I took a whack at making linkding look more like LinkWarden. I didn&rsquo;t want to modify the source, so I did the whole thing using CSS only. It was an adventure.</p>
 
@@ -96,9 +97,7 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16889966.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2024-11-18T11:42:00-06:00</pubDate>
-<pubDate>2024-11-18T11:42:00-06:00</pubDate>
 </item>
-
 <item>
 <title>Web Excursions for November 12th, 2024</title>
 <link>https://brett.trpstra.net/link/535/16884022/web-excursions-for-november-10th-2024</link>
