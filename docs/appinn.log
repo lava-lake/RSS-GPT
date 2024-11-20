@@ -44076,3 +44076,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-11-20 08:25:56.586397
+------------------------------------------------------
+Started: 2024-11-20 10:20:40.477972
+Existing_entries: 619
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Token length: 484
+Summarized using GPT-3.5-turbo-1106
+Append: [【自荐】流年记：一个可以把日记图片，生成日历图集和延迟摄影视频的日记APP](https://meta.appinn.net/t/topic/63321)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-11-20 10:20:45.967228
