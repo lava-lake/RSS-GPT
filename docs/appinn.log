@@ -44135,3 +44135,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-11-20 22:18:22.985943
+------------------------------------------------------
+Started: 2024-11-21 01:27:16.143689
+Existing_entries: 620
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 644
+Summarized using GPT-3.5-turbo-1106
+Append: [【开发者自荐】Weblink - 开源免费的Web P2P聊天文件传输、文件同步工具](https://meta.appinn.net/t/topic/63332)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-11-21 01:27:21.978626
