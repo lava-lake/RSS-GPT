@@ -4,13 +4,14 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>【自荐】Topit: 无视系统限制, 强制置顶任何窗口(支持交互)</title>
 <link>https://meta.appinn.net/t/topic/63352</link>
 <guid>https://meta.appinn.net/t/topic/63352</guid>
 <content:encoded><![CDATA[
 <div> Topit, macOS, 强制置顶, SwiftUI, 开源免费
-<br><br>总结:
+<br /><br />总结:
 软件名称为Topit，可以在macOS 13或以上版本上运行，通过使用SwiftUI编写，实现了将任意窗口强制置顶显示的功能。软件体积小巧、开源免费，不限制置顶数量，允许用户移动、缩放或与被置顶窗口进行交互。操作简单，使用ScreenCapture Kit进行窗口捕获，CPU占用低、省电，画面延迟几乎为0。软件需要获取屏幕录制和辅助功能权限，否则无法正常工作。用户可以在github页面进行打赏，以支持作者创造更多开源软件。 <div>
 <h2><a class="anchor" href="https://meta.appinn.net#p-234144-h-1" name="p-234144-h-1"></a>软件名称</h2>
 <p><img alt="icon" height="128" src="https://h1.appinn.me/file/1732173719860_icon_128x128.png" width="128" /><br />
@@ -50,9 +51,7 @@
             <p><a href="https://meta.appinn.net/t/topic/63352">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 21 Nov 2024 08:39:15 +0000</pubDate>
-<pubDate>Thu, 21 Nov 2024 08:39:15 +0000</pubDate>
 </item>
-
 <item>
 <title>【开发者自荐】Weblink - 开源免费的Web P2P聊天文件传输、文件同步工具</title>
 <link>https://meta.appinn.net/t/topic/63332</link>
