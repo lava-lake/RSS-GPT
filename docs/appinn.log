@@ -44296,3 +44296,14 @@ Append: [移动端文件管理应用](https://meta.appinn.net/t/topic/40371)
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-11-22 12:37:57.724819
+------------------------------------------------------
+Started: 2024-11-22 14:17:45.991625
+Existing_entries: 623
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Token length: 97
+Summarized using GPT-3.5-turbo-1106
+Append: [有没有能强行让网页宽屏的chrome插件？](https://meta.appinn.net/t/topic/63400)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-11-22 14:17:50.797988
