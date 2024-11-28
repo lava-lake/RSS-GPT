@@ -4,13 +4,14 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>梦回1998，用C#重现经典的 Visual Basic 6 IDE，开源跨平台</title>
 <link>https://meta.appinn.net/t/topic/63568</link>
 <guid>https://meta.appinn.net/t/topic/63568</guid>
 <content:encoded><![CDATA[
 <div> Avalonia, Visual Basic 6, IDE, C#, dotnet9
-<br><br>本文介绍了一个有趣的新开源项目，使用 Avalonia 重现经典的 Visual Basic 6 IDE 和 C# 语言。目前项目还在早期版本，有不少issues需要和作者讨论vb编译器的实现。目前尚不确定是否真的可以编译vb6程序，但至少IDE已经可以使用。项目使用dotnet9，可以编译到所有支持的跨平台上，包括web，这是dotnet9的新支持平台。这意味着，即使是写vb6，现代代码工程师也能够利用现代的编程平台进行开发。 <div>
+<br /><br />本文介绍了一个有趣的新开源项目，使用 Avalonia 重现经典的 Visual Basic 6 IDE 和 C# 语言。目前项目还在早期版本，有不少issues需要和作者讨论vb编译器的实现。目前尚不确定是否真的可以编译vb6程序，但至少IDE已经可以使用。项目使用dotnet9，可以编译到所有支持的跨平台上，包括web，这是dotnet9的新支持平台。这意味着，即使是写vb6，现代代码工程师也能够利用现代的编程平台进行开发。 <div>
 <p>发现了一个有趣的新开源，使用 Avalonia 重现经典的 Visual Basic 6 IDE 和 C# 语言。目前还在早期版本。有不少issues在和作者讨论vb编译器的实现。</p>
 <p>所以我不确定目前是否真的可以编译vb6程序，但至少ide确实是可以用的。<br />
 当然，即使是写vb6，恐怕现代码农也无法真的忍受Visual Basic 6 IDE吧<br />
@@ -22,9 +23,7 @@
             <p><a href="https://meta.appinn.net/t/topic/63568">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 28 Nov 2024 02:42:55 +0000</pubDate>
-<pubDate>Thu, 28 Nov 2024 02:42:55 +0000</pubDate>
 </item>
-
 <item>
 <title>一起分享一下如何避免被同行发现你的产品？更好的绕过同行接触到用户thinking</title>
 <link>https://meta.appinn.net/t/topic/63541</link>
