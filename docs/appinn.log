@@ -45379,3 +45379,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-12-03 12:39:26.712414
+------------------------------------------------------
+Started: 2024-12-03 14:17:07.538974
+Existing_entries: 632
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Chipmunk - 大文件日志查看器](https://meta.appinn.net/t/topic/63790)
+append_entries: 1
+Finish: 2024-12-03 14:17:09.942095
