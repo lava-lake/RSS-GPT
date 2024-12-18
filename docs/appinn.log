@@ -46766,3 +46766,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-12-18 02:56:57.296685
+------------------------------------------------------
+Started: 2024-12-18 04:23:06.608107
+Existing_entries: 641
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [有没有能用于活体认证录像的免费APP](https://meta.appinn.net/t/topic/64275)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-12-18 04:23:09.375843
