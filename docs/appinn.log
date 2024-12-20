@@ -46972,3 +46972,17 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-12-20 04:22:31.956601
+------------------------------------------------------
+Started: 2024-12-20 06:26:27.210945
+Existing_entries: 643
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [【自荐】一个将中文汉字转换成日本漢字的在线工具](https://meta.appinn.net/t/topic/64334)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [寻求一个浏览器扩展，能够编辑/查看笔记，有同步功能](https://meta.appinn.net/t/topic/64333)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 2
+Finish: 2024-12-20 06:26:30.676927
