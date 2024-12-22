@@ -47179,3 +47179,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-12-22 04:21:15.868228
+------------------------------------------------------
+Started: 2024-12-22 06:24:24.041058
+Existing_entries: 648
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [好奇大家在手机上用什么软件临时编辑office系列文件](https://meta.appinn.net/t/topic/64391)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-12-22 06:24:26.882900
