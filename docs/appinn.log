@@ -47265,3 +47265,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-12-23 01:25:29.922253
+------------------------------------------------------
+Started: 2024-12-23 02:51:39.256093
+Existing_entries: 650
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Automa 被收购了？](https://meta.appinn.net/t/topic/64412)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-12-23 02:51:42.103039
