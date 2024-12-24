@@ -47402,3 +47402,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-12-24 08:23:49.215715
+------------------------------------------------------
+Started: 2024-12-24 10:18:56.824354
+Existing_entries: 653
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [【自荐】海拔：一款查询当前位置海拔高度的应用](https://meta.appinn.net/t/topic/64489)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-12-24 10:18:59.477221
