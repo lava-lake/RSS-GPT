@@ -47364,3 +47364,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-12-24 01:24:13.236541
+------------------------------------------------------
+Started: 2024-12-24 02:49:12.676328
+Existing_entries: 651
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [【奇怪软件】imewlconverter深蓝词库转换，转换不同软件导出的词库](https://meta.appinn.net/t/topic/64459)
+append_entries: 1
+Finish: 2024-12-24 02:49:15.595931
