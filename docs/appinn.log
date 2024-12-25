@@ -47461,3 +47461,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-12-24 22:16:41.885939
+------------------------------------------------------
+Started: 2024-12-25 01:22:59.947570
+Existing_entries: 654
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [【开发者自荐】Readest - 极简、现代和面向未来的电子书阅读器](https://meta.appinn.net/t/topic/64506)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-12-25 01:23:02.669003
