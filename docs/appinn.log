@@ -47681,3 +47681,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-12-27 02:49:23.777980
+------------------------------------------------------
+Started: 2024-12-27 04:22:05.880998
+Existing_entries: 658
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [求推荐一款 Chrome 浏览器插件，能够同步历史纪录、标签页（手机与pc之间不同浏览器！！）](https://meta.appinn.net/t/topic/64602)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-12-27 04:22:08.861232
