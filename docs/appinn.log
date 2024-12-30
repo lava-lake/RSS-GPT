@@ -48000,3 +48000,14 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [OSX-PROXMOX - 在任何电脑安装 macOS，基于 Proxmox VE，Intel & AMD](https://meta.appinn.net/t/topic/63159)
 append_entries: 1
 Finish: 2024-12-30 06:27:18.626199
+------------------------------------------------------
+Started: 2024-12-30 08:24:14.363784
+Existing_entries: 663
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [【开源自荐】懒猫书签清理 -一款支持浏览器书签清理和统计的拓展程序](https://meta.appinn.net/t/topic/64700)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-12-30 08:24:17.051211
