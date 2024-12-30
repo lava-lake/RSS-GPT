@@ -47989,3 +47989,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-12-30 04:22:25.945991
+------------------------------------------------------
+Started: 2024-12-30 06:27:15.757326
+Existing_entries: 662
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OSX-PROXMOX - 在任何电脑安装 macOS，基于 Proxmox VE，Intel & AMD](https://meta.appinn.net/t/topic/63159)
+append_entries: 1
+Finish: 2024-12-30 06:27:18.626199
