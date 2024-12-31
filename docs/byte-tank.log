@@ -32002,3 +32002,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Note Taking](https://lopespm.com/notes/2024/12/30/note-taking.html)
 append_entries: 1
 Finish: 2024-12-31 01:23:33.583573
+------------------------------------------------------
+Started: 2024-12-31 02:48:20.091594
+Existing_entries: 61
+Fetching from https://lopespm.com/atom.xml
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [2024 Lookback](https://lopespm.com/notes/2024/12/31/2024-lookback.html)
+append_entries: 1
+Finish: 2024-12-31 02:48:20.301635
