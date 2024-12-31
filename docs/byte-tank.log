@@ -31993,3 +31993,12 @@ Existing_entries: 60
 Fetching from https://lopespm.com/atom.xml
 append_entries: 0
 Finish: 2024-12-30 22:17:14.716753
+------------------------------------------------------
+Started: 2024-12-31 01:23:33.327834
+Existing_entries: 60
+Fetching from https://lopespm.com/atom.xml
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Note Taking](https://lopespm.com/notes/2024/12/30/note-taking.html)
+append_entries: 1
+Finish: 2024-12-31 01:23:33.583573
