@@ -48231,3 +48231,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-01-01 12:35:32.093452
+------------------------------------------------------
+Started: 2025-01-01 14:16:12.275118
+Existing_entries: 668
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [大家手机的储存空间情况是怎么样的？你们是怎么解决手机储存空间不足的问题的？](https://meta.appinn.net/t/topic/41082)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-01-01 14:16:15.058962
