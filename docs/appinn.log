@@ -48524,3 +48524,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-01-04 08:21:58.644260
+------------------------------------------------------
+Started: 2025-01-04 10:18:01.404780
+Existing_entries: 675
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SQLean——多功能SQLite扩展程序集](https://meta.appinn.net/t/topic/64892)
+append_entries: 1
+Finish: 2025-01-04 10:18:04.332950
