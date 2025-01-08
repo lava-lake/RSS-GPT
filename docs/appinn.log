@@ -48945,3 +48945,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-01-08 12:37:22.063103
+------------------------------------------------------
+Started: 2025-01-08 14:17:28.932752
+Existing_entries: 682
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [【工具自荐】一款基于 AI 的智能书签管理插件](https://meta.appinn.net/t/topic/65034)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-01-08 14:17:31.959979
