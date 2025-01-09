@@ -38043,3 +38043,10 @@ Fetching from https://stephanango.com/feed.xml
 Feed error: 301
 append_entries: 0
 Finish: 2025-01-09 16:23:47.864005
+------------------------------------------------------
+Started: 2025-01-09 18:26:35.152204
+Existing_entries: 35
+Fetching from https://stephanango.com/feed.xml
+Feed error: 301
+append_entries: 0
+Finish: 2025-01-09 18:26:35.464592
