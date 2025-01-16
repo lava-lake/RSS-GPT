@@ -49738,3 +49738,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-01-16 10:19:05.316844
+------------------------------------------------------
+Started: 2025-01-16 12:35:36.260194
+Existing_entries: 693
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [谷歌安排Linux基金会接手Chromium项目以避反垄断措施](https://meta.appinn.net/t/topic/65385)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-01-16 12:35:38.871498
