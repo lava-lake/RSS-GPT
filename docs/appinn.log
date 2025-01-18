@@ -49929,3 +49929,14 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [DigitalZen：电脑端的免费定时休息和自控工具，支持自定义软件黑白名单](https://meta.appinn.net/t/topic/65449)
 append_entries: 1
 Finish: 2025-01-18 06:23:16.881740
+------------------------------------------------------
+Started: 2025-01-18 08:20:21.237176
+Existing_entries: 698
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [[自荐] 免费 AI 春联生成器](https://meta.appinn.net/t/topic/65456)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-01-18 08:20:24.038218
