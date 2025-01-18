@@ -49918,3 +49918,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-01-18 04:20:30.061135
+------------------------------------------------------
+Started: 2025-01-18 06:23:14.007125
+Existing_entries: 697
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DigitalZen：电脑端的免费定时休息和自控工具，支持自定义软件黑白名单](https://meta.appinn.net/t/topic/65449)
+append_entries: 1
+Finish: 2025-01-18 06:23:16.881740
