@@ -50044,3 +50044,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-01-19 10:17:55.094459
+------------------------------------------------------
+Started: 2025-01-19 12:32:10.835753
+Existing_entries: 699
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [虎虎瞎折腾 | Beancount 复式记账软件（安装、试用与卸载）](https://meta.appinn.net/t/topic/65486)
+append_entries: 1
+Finish: 2025-01-19 12:32:13.654048
