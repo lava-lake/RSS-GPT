@@ -50314,3 +50314,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-01-22 04:21:54.832333
+------------------------------------------------------
+Started: 2025-01-22 06:26:15.579395
+Existing_entries: 701
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [【开发者自荐】仓鼠工具箱 - 各类在线工具集合](https://meta.appinn.net/t/topic/65635)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-01-22 06:26:18.530866
