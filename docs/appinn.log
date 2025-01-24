@@ -50532,3 +50532,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-01-24 06:25:40.954432
+------------------------------------------------------
+Started: 2025-01-24 08:23:20.085816
+Existing_entries: 707
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [从 Windows 转到 macOS 的各位是怎么适应 macOS 的操作习惯的？](https://meta.appinn.net/t/topic/65734)
+append_entries: 1
+Finish: 2025-01-24 08:23:23.077051
