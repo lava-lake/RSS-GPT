@@ -50808,3 +50808,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-01-27 01:23:26.019209
+------------------------------------------------------
+Started: 2025-01-27 02:46:59.389115
+Existing_entries: 711
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Edge浏览器怎么设置关闭最后一个标签时不关闭浏览器？](https://meta.appinn.net/t/topic/31593)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-01-27 02:47:02.190335
