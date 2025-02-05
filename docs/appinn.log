@@ -51719,3 +51719,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-02-05 08:21:53.606334
+------------------------------------------------------
+Started: 2025-02-05 10:19:33.742497
+Existing_entries: 716
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [有哪些本地运行的 web 端工具？](https://meta.appinn.net/t/topic/66150)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-02-05 10:19:36.714628
