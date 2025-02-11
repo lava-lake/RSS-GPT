@@ -35023,3 +35023,12 @@ Existing_entries: 62
 Fetching from https://lopespm.com/atom.xml
 append_entries: 0
 Finish: 2025-02-10 22:17:14.900008
+------------------------------------------------------
+Started: 2025-02-11 01:23:15.558411
+Existing_entries: 62
+Fetching from https://lopespm.com/atom.xml
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Story of the Human Body Book: Lessons](https://lopespm.com/notes/2025/02/10/story-human-body-lessons.html)
+append_entries: 1
+Finish: 2025-02-11 01:23:15.811298
