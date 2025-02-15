@@ -52671,3 +52671,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-02-15 01:22:47.036179
+------------------------------------------------------
+Started: 2025-02-15 02:46:36.186614
+Existing_entries: 724
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [【自荐-网页小游戏】增强版掐秒表，解压玩具](https://meta.appinn.net/t/topic/66547)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-02-15 02:46:39.158253
