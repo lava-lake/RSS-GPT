@@ -53009,3 +53009,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-02-18 08:24:13.335459
+------------------------------------------------------
+Started: 2025-02-18 10:19:51.361872
+Existing_entries: 730
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [stretchly - 跨平台开源休息提醒](https://meta.appinn.net/t/topic/66659)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-02-18 10:19:54.078177
