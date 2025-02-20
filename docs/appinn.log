@@ -53199,3 +53199,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-02-20 06:26:29.715580
+------------------------------------------------------
+Started: 2025-02-20 08:24:38.415847
+Existing_entries: 732
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [｛SiriKali｝：适用于桌面端的开源文件加密 GUI 工具，支持多种文件加密后端](https://meta.appinn.net/t/topic/66729)
+append_entries: 1
+Finish: 2025-02-20 08:24:41.375504
