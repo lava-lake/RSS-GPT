@@ -35824,3 +35824,12 @@ Existing_entries: 63
 Fetching from https://lopespm.com/atom.xml
 append_entries: 0
 Finish: 2025-02-22 01:22:23.926577
+------------------------------------------------------
+Started: 2025-02-22 02:45:16.787198
+Existing_entries: 63
+Fetching from https://lopespm.com/atom.xml
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bluetooth Headphones Safety](https://lopespm.com/notes/2025/02/22/wireless-headphones.html)
+append_entries: 1
+Finish: 2025-02-22 02:45:17.181744
