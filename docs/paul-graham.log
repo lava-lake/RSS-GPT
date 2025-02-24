@@ -37670,3 +37670,10 @@ Fetching from https://rsshub.app/paulgraham/articles
 Feed error: 403
 append_entries: 0
 error when rendering xml, skip docs/paul-graham
+------------------------------------------------------
+Started: 2025-02-24 04:22:56.042482
+Existing_entries: 33
+Fetching from https://rsshub.app/paulgraham/articles
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/paul-graham
