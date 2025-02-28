@@ -53990,3 +53990,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-02-28 08:24:19.826870
+------------------------------------------------------
+Started: 2025-02-28 10:20:01.302472
+Existing_entries: 736
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [｛LibreWolf｝：基于 Firefox 的开源桌面端浏览器，注重隐私、安全和自由](https://meta.appinn.net/t/topic/67027)
+append_entries: 1
+Finish: 2025-02-28 10:20:04.111792
