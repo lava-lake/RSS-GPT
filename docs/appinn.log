@@ -55384,3 +55384,17 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-03-14 14:17:55.596250
+------------------------------------------------------
+Started: 2025-03-14 16:23:57.784227
+Existing_entries: 750
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [如何设置同一时间只能打开一个 Chrome 浏览器？](https://meta.appinn.net/t/topic/67577)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [寻找一款可以自己搭建在VPS上的导航页](https://meta.appinn.net/t/topic/32731)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 2
+Finish: 2025-03-14 16:24:00.902817
