@@ -55449,3 +55449,11 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [关于MacBook的几个快捷键](https://meta.appinn.net/t/topic/67586)
 append_entries: 1
 Finish: 2025-03-15 04:21:53.558154
+------------------------------------------------------
+Started: 2025-03-15 06:25:39.016810
+Existing_entries: 753
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2025-03-15 06:25:42.311797
