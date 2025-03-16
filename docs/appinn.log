@@ -55578,3 +55578,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-03-16 10:18:48.675313
+------------------------------------------------------
+Started: 2025-03-16 12:34:57.653065
+Existing_entries: 756
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Unarchiver：macOS 上能创建文件夹的解压缩软件](https://meta.appinn.net/t/topic/67647)
+append_entries: 1
+Finish: 2025-03-16 12:35:00.348057
