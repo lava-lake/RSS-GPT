@@ -43825,3 +43825,10 @@ Fetching from https://stephanango.com/feed.xml
 Feed error: 301
 append_entries: 0
 Finish: 2025-03-19 16:25:58.874602
+------------------------------------------------------
+Started: 2025-03-19 18:28:04.886354
+Existing_entries: 35
+Fetching from https://stephanango.com/feed.xml
+Feed error: 301
+append_entries: 0
+Finish: 2025-03-19 18:28:05.289270
