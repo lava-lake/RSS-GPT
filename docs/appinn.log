@@ -55945,3 +55945,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-03-20 02:56:21.453212
+------------------------------------------------------
+Started: 2025-03-20 04:23:41.498601
+Existing_entries: 761
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [【英语外挂】看中文视频和网页也能涨词汇量！安装量超2k+的良心插件大更新了 - Ries.AI](https://meta.appinn.net/t/topic/67814)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-03-20 04:23:44.666863
