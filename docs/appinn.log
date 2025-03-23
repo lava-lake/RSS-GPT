@@ -56234,3 +56234,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-03-23 01:42:23.865979
+------------------------------------------------------
+Started: 2025-03-23 03:03:12.292748
+Existing_entries: 764
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [有没有图形化管理pip安装包的软件？](https://meta.appinn.net/t/topic/67932)
+append_entries: 1
+Finish: 2025-03-23 03:03:15.175103
