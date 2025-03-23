@@ -56285,3 +56285,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-03-23 12:35:41.344480
+------------------------------------------------------
+Started: 2025-03-23 14:16:06.394675
+Existing_entries: 765
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [阿里是怎么做到的？能让天猫卖家不能用普通浏览量器，浏览淘宝搜索？](https://meta.appinn.net/t/topic/67949)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-03-23 14:16:09.447618
