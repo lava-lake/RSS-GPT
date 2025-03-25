@@ -56514,3 +56514,14 @@ Append: [【自荐】小宇宙/Spotify用户看过来！支持字幕、思维导
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2025-03-25 10:22:03.015816
+------------------------------------------------------
+Started: 2025-03-25 12:39:29.281478
+Existing_entries: 769
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [关于tampermonkey油猴的更新弹窗](https://meta.appinn.net/t/topic/68054)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-03-25 12:39:32.049794
