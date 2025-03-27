@@ -56689,3 +56689,14 @@ Append: [pyme：基于tk的可视化python工具，一键打包成apk](https://m
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2025-03-27 02:59:09.734870
+------------------------------------------------------
+Started: 2025-03-27 04:23:19.480482
+Existing_entries: 774
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [【自荐】Any World Clock，不仅仅为远程工作者定制的世界时钟App](https://meta.appinn.net/t/topic/68112)
+append_entries: 1
+Finish: 2025-03-27 04:23:22.536237
