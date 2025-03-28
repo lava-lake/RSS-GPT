@@ -56831,3 +56831,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-03-28 12:38:51.663414
+------------------------------------------------------
+Started: 2025-03-28 14:18:41.483479
+Existing_entries: 776
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [自用浏览器优点痛点特点备忘录](https://meta.appinn.net/t/topic/68197)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-03-28 14:18:45.465201
