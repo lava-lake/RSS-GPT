@@ -57029,3 +57029,11 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [【自荐】图床图片上传工具-图传](https://meta.appinn.net/t/topic/69024)
 append_entries: 1
 Finish: 2025-03-30 12:36:10.787689
+------------------------------------------------------
+Started: 2025-03-30 14:18:14.605915
+Existing_entries: 778
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2025-03-30 14:18:17.537912
