@@ -57956,3 +57956,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-04-09 08:28:47.836772
+------------------------------------------------------
+Started: 2025-04-09 10:24:15.727894
+Existing_entries: 783
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [[开发者自荐]免费无广的复古临时邮箱](https://meta.appinn.net/t/topic/69897)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-04-09 10:24:18.437569
