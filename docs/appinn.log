@@ -58424,3 +58424,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-04-14 04:24:13.263992
+------------------------------------------------------
+Started: 2025-04-14 06:30:50.092679
+Existing_entries: 787
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [伪装mac为win](https://meta.appinn.net/t/topic/70033)
+append_entries: 1
+Finish: 2025-04-14 06:30:53.000295
